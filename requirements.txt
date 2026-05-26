@@ -1,0 +1,7 @@
+# Core
+pandas
+numpy
+seaborn
+scikit-learn
+
+
