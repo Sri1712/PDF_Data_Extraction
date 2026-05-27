@@ -4,4 +4,19 @@ numpy
 seaborn
 scikit-learn
 
+# Open-source tools
+pymupdf4llm
+docling
+marker-pdf
+unstructured[pdf]
+magic-pdf
+
+# Commercial tools
+
+
+# Scoring
+
+# Utilities
+
+
 
