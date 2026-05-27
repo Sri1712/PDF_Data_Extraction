@@ -6,16 +6,7 @@ shares representing more than 50% of the outstanding voting power of the Company
 
 (i)
 “Sanctioned Party” means any Person: (i) organized under the laws of, 
-ordinarily resident in, or located in a country or territory that is the subject of comprehensive Sanctions 
-(“Restricted Countries”7); (ii) 50% or more owned or controlled by the government of a Restricted 
-Country; or (iii) (A) designated on a sanctioned parties list administered by the United States[, European 
-Union, or United Kingdom], including, without limitation, the U.S. Department of the Treasury’s Office 
-of Foreign Assets Control’s Specially Designated Nationals and Blocked Persons List, Foreign Sanctions 
-Evaders List, [and ]Sectoral Sanctions Identification List[, the Consolidated List of Persons, Groups, and 
-Entities Subject to EU Financial Sanctions, and the UK’s Consolidated Sanctions List] (collectively, 
-“Designated Parties”); or (B) 50% or more owned or, where relevant under applicable Sanctions, 
-controlled, individually or in the aggregate, by one or more Designated Party, in each case only to the 
-extent that dealings with such Person is are prohibited pursuant to applicable Sanctions8.
+ordinarily resident in, or located in a country or territory that is the subject of comprehensive Sanctions (“Restricted Countries”7); (ii) 50% or more owned or controlled by the government of a Restricted Country; or (iii) (A) designated on a sanctioned parties list administered by the United States[, European Union, or United Kingdom], including, without limitation, the U.S. Department of the Treasury’s Office of Foreign Assets Control’s Specially Designated Nationals and Blocked Persons List, Foreign Sanctions Evaders List, [and ]Sectoral Sanctions Identification List[, the Consolidated List of Persons, Groups, and Entities Subject to EU Financial Sanctions, and the UK’s Consolidated Sanctions List] (collectively, “Designated Parties”); or (B) 50% or more owned or, where relevant under applicable Sanctions, controlled, individually or in the aggregate, by one or more Designated Party, in each case only to the extent that dealings with such Person is are prohibited pursuant to applicable Sanctions8.
 
 (j)
 “Sanctions” means applicable laws and regulations pertaining to trade and 
@@ -52,16 +43,14 @@ stockholders at which an election of directors is held or pursuant to any writte
 stockholders, subject to Section 5, the following persons shall be elected to the Board: 10
 
 6 
-This definition has been moved here to ensure the defined term exists even in a scenario where there isn’t 
-necessarily a drag-along provision.
+This definition has been moved here to ensure the defined term exists even in a scenario where there isn’t necessarily a drag-along provision.
 
 7 
 *Revised October 2025* Additional information regarding Restricted Countries can be found at: 
 https://ofac.treasury.gov/sanctions-programs-and-country-information.
 
 8
-Model language is to account for the fact that some listed parties may not be fully prohibited, but rather subject 
-to more targeted restrictions.
+Model language is to account for the fact that some listed parties may not be fully prohibited, but rather subject to more targeted restrictions.
 
 9
 Include to the extent that these jurisdictions are or may be relevant.

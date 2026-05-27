@@ -17,16 +17,16 @@ Materiality challenges have been classified according
 to the contributions of the CSR roadmap. Sustainability 
 issues were identified based on:
 
-■Information and knowledge gained from previous 
+■ Information and knowledge gained from previous 
 financial years;
 
-■Sector-specific reference frameworks specifying the 
+■ Sector-specific reference frameworks specifying the 
 priority issues linked to construction business lines;
 
-■The specific features of the Group’s business model 
+■ The specific features of the Group’s business model 
 and value chain;
 
-■Compliance with EU regulations by incorporating 
+■ Compliance with EU regulations by incorporating 
 the detailed challenges listed by the ESRS.
 
 The methodology and detailed results 

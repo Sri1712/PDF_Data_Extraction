@@ -1,5 +1,3 @@
-Trends and opportunities
-
 OUR LONG TERM OUTLOOK
 OUR BUSINESS MODEL IS GUIDED 
 BY TRENDS AND OPPORTUNITIES
@@ -9,10 +7,11 @@ FOR CONSTRUCTION
 
 CLIMATE 
 CHANGE
+
 RESOURCE 
 SCARCITY
 
-C H A L L E N G E S  A N D  O P P O R T U N I T I E S
+CHALLENGES  AND  OPPORTUNITIES
 
 A growing, 
 urbanizing 
@@ -73,27 +72,7 @@ resources
 a unique range of light and sustainable 
 construction solutions”
 
-In addition, our organization is designed 
-to offer us new growth opportunities: 
-our country platforms are in charge 
-of deploying the Group’s entire solutions 
-offering in each region, drawing on an 
-in-depth, precise understanding of local 
-market dynamics, customers, and 
-distribution channels. These country 
-platforms give us an advantage in 
-identifying our acquisition targets or 
-integrating them. They allow us to replicate 
-our model from one country to another 
-by gradually deploying our entire offering 
-across all our countries. And they benefit 
-from the expertise of the entire Group 
-thanks to the cross-functionality of 
-commercial and industrial excellence 
-and innovation functions.
-
 “
-
 Saint-Gobain is the worldwide leader in light 
 and sustainable construction. We are a 
 leader in Europe, North America, Australia, 
@@ -113,14 +92,6 @@ and we are uniquely positioned to meet their
 needs for complete solutions, particularly 
 for the overall performance of a building.
 
-It is this unique combination of a vision, 
-an unrivaled breadth of offerings, and 
-an organization dedicated to growth 
-that forms the DNA of Saint-Gobain. 
-More than ever, we are ready to deliver 
-on the promises of our purpose: 
-“Making the world a better home".
-
 Through our low-carbon solutions, we offer 
 an integrated approach to meet the needs 
 of buildings with environmental certifications. 
@@ -129,10 +100,37 @@ entire value chain, from architects
 to developers, to meet the challenges 
 of our world.
 
+In addition, our organization is designed 
+to offer us new growth opportunities: 
+our country platforms are in charge 
+of deploying the Group’s entire solutions 
+offering in each region, drawing on an 
+in-depth, precise understanding of local 
+market dynamics, customers, and 
+distribution channels. These country 
+platforms give us an advantage in 
+identifying our acquisition targets or 
+integrating them. They allow us to replicate 
+our model from one country to another 
+by gradually deploying our entire offering 
+across all our countries. And they benefit 
+from the expertise of the entire Group 
+thanks to the cross-functionality of 
+commercial and industrial excellence 
+and innovation functions.
+
+It is this unique combination of a vision, 
+an unrivaled breadth of offerings, and 
+an organization dedicated to growth 
+that forms the DNA of Saint-Gobain. 
+More than ever, we are ready to deliver 
+on the promises of our purpose: 
+“Making the world a better home".
+
 Patrick Dupin
 GROUP CHIEF 
 OPERATING OFFICER
 
 8
 SAINT-GOBAIN • INTEGRATED REPORT 2025
-Ë www.saint-gobain.com
+www.saint-gobain.com

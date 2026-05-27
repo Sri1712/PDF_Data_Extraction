@@ -1,5 +1,3 @@
-Our stakeholders
-
 OUR STAKEHOLDERS
 PRINCIPLES OF DIALOG WITH STAKEHOLDERS
 
@@ -22,6 +20,14 @@ STAKEHOLDERS
 DIALOG 
 MODALITY
 
+MARKET
+
+Customers: direct customers, 
+users and specifiers
+
+Suppliers and subcontractors, 
+partners
+
 • Regular meetings
 • Publications and magazines; company websites; 
 professional forums and trade fairs 
@@ -33,13 +39,13 @@ of existing buildings; participation in associations or groups
 for the responsible purchasing policy
 • Test markets, commercial studies, focus groups, etc.
 
-Customers: direct customers, 
-users and specifiers
+EMPLOYEES
 
-MARKET
-
-Suppliers and subcontractors, 
-partners
+Employees (full-time, part-time), 
+temporary workers, employee 
+representatives, apprentices, 
+interns, secondary and vocational 
+education
 
 • Permanent contacts
 • Internal communication material
@@ -49,13 +55,12 @@ partners
 • Website
 • Global surveys or surveys on specific subjects
 
-Employees (full-time, part-time), 
-temporary workers, employee 
-representatives, apprentices, 
-interns, secondary and vocational 
-education
+INVESTORS
 
-EMPLOYEES
+Shareholders: employees, 
+institutional investors, SRI 
+(Socially Responsible Investment), 
+rating and ranking agencies
 
 • Group publications (brochures, etc.)
 • Website
@@ -65,12 +70,10 @@ EMPLOYEES
 • Meetings with investors
 • Meetings with individual shareholders
 
-Shareholders: employees, 
-institutional investors, SRI 
-(Socially Responsible Investment), 
-rating and ranking agencies
-
-INVESTORS
+REGULAR 
+AUTHORITIES AND 
+PUBLIC AFFAIRS 
+PARTNERS
 
 Governments, regulators, 
 intergovernmental entities, 
@@ -85,10 +88,11 @@ professional associations, on various construction method-related
 technical issues, such as evaluating of building performance
 • Green Building Councils
 
-REGULAR 
-AUTHORITIES AND 
-PUBLIC AFFAIRS 
-PARTNERS
+LOCAL 
+COMMUNITIES
+
+Local populations and 
+communities close to sites
 
 • Meetings initiated by sites or country organizations
 • Solidarity initiatives
@@ -97,11 +101,11 @@ of local administrations
 • Experimental work in the regions in partnership with public entities 
 and elected officials
 
-Local populations and 
-communities close to sites
+CIVIL SOCIETY
 
-LOCAL 
-COMMUNITIES
+NGOs, foundations, 
+professional associations, 
+universities, schools, media
 
 • Group publications
 • Meetings
@@ -109,12 +113,6 @@ COMMUNITIES
 • Forums in schools
 • Support for youth development
 
-NGOs, foundations, 
-professional associations, 
-universities, schools, media
-
-CIVIL SOCIETY
-
 10
 SAINT-GOBAIN • INTEGRATED REPORT 2025
-Ë www.saint-gobain.com
+www.saint-gobain.com

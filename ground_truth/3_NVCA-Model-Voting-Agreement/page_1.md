@@ -28,8 +28,7 @@ Existing Investors (the “Prior Agreement”);
 WHEREAS, the undersigned Existing Investors and Existing Key Holders are holders of a 
 sufficient number of the securities of the Company as are required to amend the Prior Agreement, and 
 desire to amend and restate the Prior Agreement in its entirety and to accept the rights and obligations 
-created pursuant to this Agreement in lieu of the rights and obligations applicable to them under the Prior 
-Agreement;]
+created pursuant to this Agreement in lieu of the rights and obligations applicable to them under the Prior Agreement;]
 
 WHEREAS, the Company and [certain of] the Investors are parties to that certain Series [_] 
 Preferred Stock Purchase Agreement of even date herewith by and among the Company and such 
@@ -37,8 +36,7 @@ Investors (the “Purchase Agreement”), under which certain of the Company’s
 obligations are conditioned upon the execution and delivery of this Agreement by the undersigned parties;
 
 WHEREAS, as of the date hereof, the Certificate of Incorporation of the Company (the 
-“Restated Certificate”) provides that, subject to certain conditions specified therein: [(i) the holders of 
-record of the shares of [Series [___]] Preferred Stock, $[___] par value per share, of the Company 
+“Restated Certificate”) provides that, subject to certain conditions specified therein: [(i) the holders of record of the shares of [Series [___]] Preferred Stock, $[___] par value per share, of the Company 
 (“Preferred Stock”), exclusively and as a separate class, shall be entitled to elect one director of the 
 Company (the “Preferred Director”); (ii) the holders of record of the shares of common stock, $[___] 
 par value per share, of the Company (“Common Stock”), exclusively and as a separate class, shall be 
@@ -50,12 +48,10 @@ and2
 1
 Section 706(a) of the California General Corporation Law and Section 218(c) of the Delaware General 
 Corporation Law (the “DGCL”) specifically allow voting agreements between stockholders, provided such 
-agreements are in writing and signed by the parties thereto. The powers created by these sections are not limited to 
-board matters.
+agreements are in writing and signed by the parties thereto. The powers created by these sections are not limited to board matters.
 
 2
-This recital should be updated to match the specific voting rights set forth in the Company’s certificate of 
-incorporation.
+This recital should be updated to match the specific voting rights set forth in the Company’s certificate of incorporation.
 
 Last Updated October 2025
 1
