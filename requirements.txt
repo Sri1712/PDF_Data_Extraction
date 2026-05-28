@@ -5,18 +5,25 @@ seaborn
 scikit-learn
 
 # Open-source tools
-pymupdf4llm
-docling
-marker-pdf
-unstructured[pdf]
-magic-pdf
+pymupdf4llm          
+docling              
+marker-pdf           
+magic-pdf[full]      # MinerU
+unstructured[pdf]  
+open-data-loader-pdf
 
 # Commercial tools
-
+llama-parse          
+azure-ai-formrecognizer  
+boto3              
+mistralai
 
 # Scoring
+jiwer # CER scoring
 
 # Utilities
+python-dotenv # load .env for API keys
+tqdm 
 
 
 
