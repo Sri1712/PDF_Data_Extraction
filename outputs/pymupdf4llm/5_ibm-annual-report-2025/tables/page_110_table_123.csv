@@ -1,0 +1,37 @@
+($inmillions),,,,,,,,,,,,,,,,
+,,DefinedBenefit,,,PensionPlans,,,,NonpensionPostretirementBenefit,,,,,,,Plans
+,,"US
+. .",Plans,,,"Non-U .S
+.",Plans,,,"US
+. .",Plan,,,"Non-U .S
+.",Plans,
+,,2025,,2024,,2025,,2024,2025,,2024,,2025,,2024,
+NetlossatJanuary1,$,"6153
+,",$,"9467
+,","$11950
+,",,"$12937
+,",,$,188,$,73,$,125,$,123
+Currentperiodloss/(gain),,(147),,(101),,(291),,(73),,60,,115,,1,,0
+Curtailmentsandsettlements(1),,—,,"(2761)
+,",,(9),,(398),,—,,—,,0,,0
+Amortizationofnetlossincludedinnet,,,,,,,,,,,,,,,,
+periodic(income)/cost,,(280),,(452),,(343),,(516),,—,,—,,(1),,1
+NetlossatDecember31,$,"5726
+,",$,"6153
+,","$11307
+,",,"$11950
+,",,$,249,$,188,$,125,$,125
+Priorservicecosts/(credits)atJanuary1,$,0,$,0,$,342,$,309,$,(321),$(350),,$,(1),$,(1)
+Currentperiodpriorservicecosts/(credits),,0,,—,,469,,56,,0,,—,,0,,0
+"Curtailments, settlements and other",,—,,—,,—,,—,,—,,—,,—,,—
+Amortizationofpriorservice(costs)/credits,,,,,,,,,,,,,,,,
+includedinnetperiodic(income)/cost,,—,,0,,(22),,(22),,29,,29,,0,,0
+Priorservicecosts/(credits)atDecember31,$,0,$,0,$,789,$,342,$,(292),$(321),,$,(1),$,(1)
+Transition(assets)/liabilitiesatJanuary1,$,—,$,—,$,—,$,0,$,—,$,—,$,0,$,0
+Transition(assets)/liabilitiesatDecember31,$,—,$,—,$,—,$,0,$,—,$,—,$,0,$,0
+Totallossrecognizedinaccumulatedother,,,,,,,,,,,,,,,,
+comprehensiveincome/(loss)(2),$,"5726
+,",$,"6153
+,","$12096
+,",,"$12293
+,",,$,(43),$(133),,$,124,$,124
