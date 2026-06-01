@@ -1,0 +1,199 @@
+{
+  "file name" : "4_scanned_document.pdf",
+  "number of pages" : 10,
+  "author" : "Handwritten Concern Form reporting Domestic Abuse",
+  "title" : "Scanned Document",
+  "creation date" : "D:20220210124322Z",
+  "modification date" : "D:20240201091858Z",
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ -2.137, -1.448, 597.337, 843.707 ],
+    "source" : "4_scanned_document_images/imageFile1.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 2,
+    "level" : "Doctitle",
+    "page number" : 1,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 3,
+    "page number" : 2,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile2.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 4,
+    "level" : "Subtitle",
+    "page number" : 2,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 5,
+    "page number" : 3,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile3.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 6,
+    "level" : "Subtitle",
+    "page number" : 3,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 7,
+    "page number" : 4,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile4.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 8,
+    "level" : "Subtitle",
+    "page number" : 4,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 9,
+    "page number" : 5,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile5.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 10,
+    "level" : "Subtitle",
+    "page number" : 5,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 11,
+    "page number" : 6,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile6.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 12,
+    "level" : "Subtitle",
+    "page number" : 6,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 13,
+    "page number" : 7,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile7.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 14,
+    "level" : "Subtitle",
+    "page number" : 7,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 15,
+    "page number" : 8,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile8.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 16,
+    "level" : "Subtitle",
+    "page number" : 8,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 17,
+    "page number" : 9,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile9.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 18,
+    "level" : "Subtitle",
+    "page number" : 9,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 19,
+    "page number" : 10,
+    "bounding box" : [ 0.0, 0.0, 595.0, 842.0 ],
+    "source" : "4_scanned_document_images/imageFile10.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 20,
+    "level" : "Subtitle",
+    "page number" : 10,
+    "bounding box" : [ 148.442, 272.667, 445.827, 570.052 ],
+    "heading level" : 1,
+    "font" : "Arial",
+    "font size" : 72.0,
+    "text color" : "[0.75]",
+    "content" : "EXAMPLE"
+  } ]
+}

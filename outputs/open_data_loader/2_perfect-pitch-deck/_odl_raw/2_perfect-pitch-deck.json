@@ -1,0 +1,166 @@
+{
+  "file name" : "2_perfect-pitch-deck.pdf",
+  "number of pages" : 16,
+  "author" : null,
+  "title" : null,
+  "creation date" : null,
+  "modification date" : null,
+  "kids" : [ {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 1,
+    "page number" : 1,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile1.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 2,
+    "page number" : 2,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile2.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 3,
+    "page number" : 3,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile3.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 4,
+    "page number" : 4,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile4.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 5,
+    "page number" : 5,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile5.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 6,
+    "page number" : 6,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile6.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 7,
+    "page number" : 7,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile7.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 8,
+    "page number" : 8,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile8.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 9,
+    "page number" : 9,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile9.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 10,
+    "page number" : 10,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile10.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 11,
+    "page number" : 11,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile11.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 12,
+    "page number" : 12,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile12.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 13,
+    "page number" : 13,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile13.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 14,
+    "page number" : 14,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile14.png"
+  }, {
+    "type" : "image",
+    "pdfua_tag" : "Figure",
+    "id" : 15,
+    "page number" : 15,
+    "bounding box" : [ 0.0, 0.0, 720.0, 405.0 ],
+    "source" : "2_perfect-pitch-deck_images/imageFile15.png"
+  }, {
+    "type" : "heading",
+    "pdfua_tag" : "H1",
+    "id" : 18,
+    "level" : "Doctitle",
+    "page number" : 16,
+    "bounding box" : [ 26.16, 236.749, 232.159, 286.816 ],
+    "heading level" : 1,
+    "font" : "Georgia",
+    "font size" : 44.064,
+    "text color" : "[0.0]",
+    "content" : "Thank you"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 22,
+    "page number" : 16,
+    "bounding box" : [ 26.16, 135.17, 66.264, 143.612 ],
+    "font" : "ArialMT",
+    "font size" : 9.0,
+    "text color" : "[0.0]",
+    "content" : "pwc.co.uk"
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 19,
+    "page number" : 16,
+    "bounding box" : [ 26.16, 56.008, 689.343, 92.349 ],
+    "font" : "ArialMT",
+    "font size" : 8.04,
+    "text color" : "[1.0]",
+    "content" : "This publication has been prepared for general guidance on matters of interest only, and does not constitute professional advice. You should not act upon the information contained in this publication without obtaining specific professional advice. No representation or warranty (express or implied) is given as to the accuracy or completeness of the information contained in this publication, and, to the extent permitted by law, PricewaterhouseCoopers LLP, its members, employees and agents do not accept or assume any liability, responsibility or duty of care for any consequences of you or anyone else acting, or refraining to act, in reliance on the information contained in this publication or for any decision based on it."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 20,
+    "page number" : 16,
+    "bounding box" : [ 26.16, 30.803, 689.226, 49.396 ],
+    "font" : "ArialMT",
+    "font size" : 8.064,
+    "text color" : "[1.0]",
+    "content" : "© 2021 PricewaterhouseCoopers LLP. All rights reserved. ‘PwC’ refers to the UK member firm, and may sometimes refer to the PwC network. Each member firm is a separate legal entity. Please see www.pwc.com/structure for further details."
+  }, {
+    "type" : "paragraph",
+    "pdfua_tag" : "P",
+    "id" : 21,
+    "page number" : 16,
+    "bounding box" : [ 26.16, 15.184, 76.812, 22.725 ],
+    "font" : "ArialMT",
+    "font size" : 8.04,
+    "text color" : "[1.0]",
+    "content" : "RITM6123592"
+  } ]
+}

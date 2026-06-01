@@ -1,0 +1,1 @@
+## Half-year financial report30 June 2025

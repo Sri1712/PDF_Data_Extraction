@@ -1,0 +1,1 @@
+AFD – 2025 half-year financial reportDue to rounding, the tables’ column totals may differ slightly from the sum of the lines composing them.The abbreviation €K signifies thousands of euros, €M signifies millions of euros and €bn signifies billions of euros.3
