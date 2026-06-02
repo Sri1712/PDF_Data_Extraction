@@ -1,0 +1,65 @@
+48   Notes to the Consolidated Financial Statements
+     International Business Machines Corporation and Subsidiary Companies
+
+
+     NOTE A. SIGNIFICANT ACCOUNTING POLICIES
+     Basis of Presentation
+     The accompanying Consolidated Financial Statements and footnotes of the International Business Machines Corporation (IBM or
+     “the company”) have been prepared in accordance with accounting principles generally accepted in the United States of America
+     (GAAP).
+
+     Within the financial statements and tables presented, certain columns and rows may not add due to the use of rounded numbers for
+     disclosure purposes. Percentages presented are calculated from the underlying whole-dollar amounts. Certain prior-year amounts
+     have been reclassified to conform to the change in current year presentation. This is annotated where applicable.
+
+     In the first quarter of 2025, the company made changes to the reported revenue categories within its Software and Consulting
+     reportable segments. These changes did not impact the company's Consolidated Financial Statements or its reportable segments.
+     The revenue categories are reported on a comparable basis for all periods. Refer to note C, “Revenue Recognition,” for additional
+     information.
+
+     The company reported a benefit from income taxes for the years ended December 31, 2025 and 2024. The 2025 tax benefit was
+     primarily driven by the resolution of certain tax audit matters. The 2024 tax benefit was driven by the tax impact of the pension
+     settlement charges, as described below, and the resolution of certain tax audit matters. Refer to note G, “Taxes,” for additional
+     information. The tax benefits associated with the resolution of certain tax audit matters are primarily reflected within other assets/
+     other liabilities as non-cash adjustments to reconcile net income to net cash provided by operating activities in the Consolidated
+     Statement of Cash Flows.
+
+     In September 2024, the IBM Personal Pension Plan ("Qualified PPP") irrevocably transferred to an insurer approximately $6 billion
+     of the Qualified PPP’s Defined Benefit (DB) pension obligations and related plan assets. As a result of this transaction, the company
+     recognized a pension settlement charge of $2.7 billion ($2.0 billion net of tax) in the third quarter of 2024.
+
+     In October 2024, IBM Canada LTD (“IBMC”) irrevocably transferred to insurers approximately $1.2 billion of the IBMC IBM
+     Retirement Plan DB pension obligations and related plan assets. As a result of this transaction, the company recognized a pension
+     settlement charge of $0.4 billion in the fourth quarter of 2024.
+
+     The pension settlement charges for the year ended December 31, 2024 of $3.1 billion ($2.4 billion net of tax), as described above,
+     were primarily related to the accelerated recognition of accumulated actuarial losses of the plans. The tax benefits associated with
+     these pension settlement charges were reflected within deferred taxes as an adjustment to reconcile net income to net cash
+     provided by operating activities in the Consolidated Statement of Cash Flows. Refer to note U, “Retirement-Related Benefits,” for
+     additional information.
+
+     Noncontrolling interest amounts of $26 million, $17 million and $16 million, net of tax, for the years ended December 31, 2025,
+     2024 and 2023, respectively, are included as a reduction within other (income) and expense in the Consolidated Income Statement.
+
+     Principles of Consolidation
+     The Consolidated Financial Statements include the accounts of IBM and its controlled subsidiaries, which are primarily majority
+     owned. Any noncontrolling interest in the equity of a subsidiary is reported as a component of total equity in the Consolidated
+     Balance Sheet. Net income and losses attributable to the noncontrolling interest are reported as described above in the
+     Consolidated Income Statement. The accounts of variable interest entities (VIEs) are included in the Consolidated Financial
+     Statements, if required. Investments in business entities in which the company does not have control but has the ability to exercise
+     significant influence over operating and financial policies, are accounted for using the equity method and the company’s
+     proportionate share of income or loss is recorded in other (income) and expense. At December 31, 2025 and 2024, equity method
+     investments were $60 million and $108 million, respectively. Equity investments in non-publicly traded entities lacking controlling
+     financial interest or significant influence are primarily measured at cost, absent other indicators of fair value, net of impairment, if
+     any. At December 31, 2025 and 2024, equity investments measured at cost were $221 million and $156 million, respectively.
+     Equity method investments and equity investments measured at cost are included in investments and sundry assets in the
+     Consolidated Balance Sheet. The accounting policy for other investments in equity securities is described within the “Marketable
+     Securities” section of this note. All intercompany transactions and accounts have been eliminated in IBM’s consolidated financial
+     results.
+
+     Use of Estimates
+     The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that
+     affect amounts that are reported in the Consolidated Financial Statements and accompanying disclosures. Estimates are made for
+     the following, among others: revenue, costs to complete service contracts, income taxes, pension assumptions, valuation of assets
+     including goodwill and intangible assets, loss contingencies, allowance for credit losses and other matters. These estimates are
+     based on management’s best knowledge of current events, historical experience, actions that the company may undertake in the

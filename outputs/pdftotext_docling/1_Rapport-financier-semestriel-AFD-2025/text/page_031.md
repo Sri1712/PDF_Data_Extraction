@@ -1,0 +1,50 @@
+AFD – 2025 half-year financial report                                                                        31
+
+
+   Significant increase in credit risk
+   The significant increase in credit risk can be measured individually or collectively. The Group examines
+   all the information at its disposal (internal and external, including historic data, information about the
+   current economic climate, reliable forecasts about future events and economic conditions).
+   The impairment model is based on the expected loss, which must reflect the best information available
+   at the closing date, adopting a forward looking approach.
+   The internal ratings calibrated by AFD are by nature forward-looking, taking into account:
+       Forward-looking elements on the counterparty’s credit quality: anticipation of adverse medium-
+       term changes in the counterparty’s position;
+    Country risk and shareholder support.
+   To measure the significant increase in credit risk of a financial asset since its entry into the balance sheet,
+   which involves it moving from stage 1 to stage 2 and then to stage 3, the Group has created a
+   methodological framework which sets out the rules for measuring the deterioration of the credit risk
+   category. The methodology selected is based on a combination of several criteria, including internal
+   ratings, inclusion on a watchlist and the refutable presumption of significant deterioration because of
+   monies outstanding for more than 30 days.
+   According to this standard, if the risk for a particular financial instrument is deemed to be low at the
+   closing date (a financial instrument with a very good rating, for example), then it can be assumed that
+   the credit risk has not increased significantly since its initial recognition. This arrangement has been
+   applied for debt securities recognised at fair value through other comprehensive income that may be
+   recycled and at amortised cost. For the purposes of stage 1 and 2 classification, counterparties with a
+   very good rating are automatically classified as stage 1.
+
+   Measuring expected credit losses (ECL)
+   Expected credit losses are estimated as the discounted amount of credit losses weighted by the
+   probability of default over the next 12 months or over the asset’s lifetime, depending on the stage.
+   Based on the specificities of AFD Group’s portfolio, work was carried out to define the methodological
+   choices for calculating expected credit losses for all of the Group’s assets eligible for recognition at
+   amortised cost or at fair value through other comprehensive income, in line with stage 1 of IFRS 9. The
+   Group’s chosen calculation method was thus based on internal data and concepts, and also adaptations
+   of external restated transition matrices.
+   Calculation of the expected credit losses (ECLs) is based on three key parameters: probability of default
+   (PD), loss given default (LGD) and exposure at default (EAD), bearing in mind the amortisation profiles.
+   In addition, IFRS 9 parameters now take into account the economic environment expected over the
+   projection horizon (forward-looking). AFD Group takes forward-looking information into account when
+   measuring expected credit losses.
+   The adjustment of parameters to the economic environment is based on the upward modulation of
+   provisions according to macroeconomic projections to define groups of countries (i.e. list of non-
+   sovereign counterparties in the portfolio in these countries). The main criteria used are:
+    the IMF’s GDP growth outlook;
+    the outlook of rating agencies;
+    the degree of debt sustainability published by the World Bank.
+   The cross-referencing of these three indicators (with weightings for each indicator value) leads to the
+   definition of a list of countries which is submitted for expert review at Group level.
+   Once the list has been validated by the various stakeholders, the geographies are then classified
+   according to the expected economic context (very deteriorated, deteriorated, stable, favourable, very
+   favourable).

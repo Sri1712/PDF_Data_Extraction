@@ -1,0 +1,20 @@
+SomeExamplesofVulnerabilities(thislistisnotexhaustive)
+Drug and alcohol misuse
+Mentalhealthneeds
+Poor general health
+Poor lifestyle choices
+SECTION2 DETAILSOFCONCERNBEINGRAISED
+TYPEOFABUSE
+Discriminatory
+Domestic
+Financial and Material
+ModernSlavery
+nutrition and heating.
+Organisational
+Includespoorcarepracticewithin an institutionorspecific careseting like a hospital or carehome.This mayrange from isolated incidentstocontinuing ill-treatment.
+Psychological
+Includesemotional abuse,threatsofharmorabandonment,deprivationofcontact,humiliation,blaming, controlling,intimidation,coercion,harassment,verbal abuse,isolation or withdrawal from servicesor supportivenetworks.
+Physical
+Sexual Abuse
+Includesrapeandsexual assault,sexual acts towhich the adulthasnotconsented,couldnotconsentor waspressuredintoconsenting
+EXAMPLE

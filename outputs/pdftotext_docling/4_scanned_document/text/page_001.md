@@ -1,0 +1,4 @@
+Inter-AgencySafeguarding AdultsConcern Form STRICTLYCONFIDENTIAL
+If you suspect that someone is being harmed and they are in immediate danger you should ring the police on 999. Where a crime has been committed and the police require informing but there is no immediate danger call 101(forfurther information see guidance at the end of this form). In all other situations,please contact the relevant Local Authority (as detailed below). lf there are any concerns about childrenpleaserefer to the relevantcontactwithin the Local Authority(see guidance).
+EXAMPLE
+the box and select 'checked'. Or you can print and hand write legibly in black ink on the form and thenscan/emailthis.

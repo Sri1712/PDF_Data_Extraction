@@ -1,0 +1,2 @@
+Describe your funding history and the amount you're looking to raise
+Who are your current investors and how much have you raised to date? Include names if these hold sway/ credibility in the industry Explain your use of funds for the raise using a visual (make sure aligned to financial model) including key hires Discuss key milestones (product, revenue, new markets) you plan to hit in the next 12-24 months Don't put a valuationhere. We'll talk about valuationin another post but withoutthedeal structure, it can be misleading.

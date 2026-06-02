@@ -1,0 +1,57 @@
+makes no representation regarding any Person that may be deemed to be a beneficial owner of the
+Company’s voting equity securities held by such Investor solely by virtue of that Person being or
+becoming a party to (x) this Agreement, as may be subsequently amended, or (y) any other contract or
+written agreement to which the Company and such Investor are parties regarding (1) the voting power,
+which includes the power to vote or to direct the voting of, such security; and/or (2) the investment
+power, which includes the power to dispose, or to direct the disposition of, such security.
+
+                (b)     The Company hereby represents and warrants to the Investors that no
+Disqualification Event is applicable to the Company or, to the Company’s knowledge, any Company
+Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii)-(iv) or (d)(3) is
+applicable.
+
+         5.3     Covenants. Each Person with the right to designate or participate in the designation of a
+director pursuant to this Agreement covenants and agrees (i) not to designate or participate in the
+designation of any director designee who, to such Person’s knowledge, is a Disqualified Designee, (ii) to
+exercise reasonable care to determine whether any director designee designated by such person is a
+Disqualified Designee, (iii) that in the event such Person becomes aware that any individual previously
+designated by any such Person is or has become a Disqualified Designee, such Person shall as promptly
+as practicable take such actions as are necessary to remove such Disqualified Designee from the Board
+and designate a replacement designee who is not a Disqualified Designee, and (iv) to notify the Company
+promptly in writing in the event a Disqualification Event becomes applicable to such Person or any of its
+Rule 506(d) Related Parties, or, to such Person’s knowledge, to such Person’s initial designee named in
+Section 1.2, except, if applicable, for a Disqualification Event as to which Rule 506(d)(2)(ii) or (iii) or
+(d)(3) is applicable. 27
+
+6.       Term. This Agreement shall be effective as of the date hereof and shall continue in effect until
+and shall terminate upon the earliest to occur of (a) the consummation of the Company’s first
+underwritten public offering of its Common Stock28 (other than a registration statement relating either to
+the sale of securities to employees of the Company pursuant to its stock option, stock purchase or similar
+plan or an SEC Rule 145 transaction)[, or Qualified Direct Listing (as defined in the Restated
+Certificate)]; (b) the consummation of a Sale of the Company and, if applicable, distribution of proceeds
+to or escrow for the benefit of the Stockholders in accordance with the Restated Certificate[, provided that
+the provisions of Section 3 hereof will continue after the closing of any Sale of the Company to the extent
+necessary to enforce the provisions of Section 3 with respect to such Sale of the Company]; [and] (c)
+termination of this Agreement in accordance with Section 7.8 below[; and (d) _____ __, 20__].
+
+7.       Miscellaneous.
+
+
+27
+     The intent of this covenant is to reduce the burden on issuers in ascertaining the “bad actor” status of its
+stockholders for Rule 506 offerings. A Compliance and Disclosure Interpretation promulgated by the Securities and
+Exchange Commission (Question 260.14) states that, “[a]n issuer may reasonably rely on a covered person’s
+agreement to provide notice of a potential or actual bad actor triggering event. . . .” It also notes, however, that if an
+offering is continuous, delayed or long-lived, the issuer must update its inquiry through bring-down representations,
+negative consent letters or other reasonable means.
+28
+     Some voting agreements require a “qualified public offering” for the termination of the agreement. The
+blocking rights contained in the Certificate of Incorporation, however, should provide sufficient protection to the
+investors. Retaining a “qualified public offering” requirement in the voting agreement creates possible blocking
+rights for individual investors not contemplated by the Certificate of Incorporation, and in any event gives rise to the
+need to obtain additional waivers and consents when one should be sufficient. The termination provision should
+conform to that in the Right of First Refusal and Co-sale Agreement and the Investors’ Rights Agreement (other
+than the registration rights termination provision).
+
+
+Last Updated October 2025                                  13

@@ -1,0 +1,78 @@
+AFD – 2025 half-year financial report                                                                                                                                                   50
+
+
+            3.4.           Risk information
+   Concentration of credit risk
+   Financial loans at amortised cost
+   Non-sovereign
+                                                                                 30 Jun 25                                                            31 Dec 24
+                                                        Performing assets                       assets                           Performing assets                  assets
+   In thousands of euros                               Stage 1            Stage 2              Stage 3            Total         Stage 1        Stage 2             Stage 3           Total
+   Rating
+   from AAA to BBB- (Investment)                    6,820,985           1,031,594                     -       7,852,579       8,298,773        534,234                      -    8,833,007
+   from BB+ to CCC (Speculative)                    7,511,867           4,642,628                     -      12,154,495       7,065,450      4,189,944                      -   11,255,394
+   Not applicable (1)                                        145                 40                   -            184          584,961                   -                 -      584,961
+   Doubtful                                                    -                  -            878,831         878,831                  -                 -       894,001          894,001
+   Total                                           14,332,996           5,674,262              878,831      20,886,090       15,949,184      4,724,178            894,001       21,567,362
+   (1) Unused assets relate to budgets granted pending allocation to a final beneficiary.
+
+
+   Sovereign
+                                                                                 30 Jun 25                                                            31 Dec 24
+                                                        Performing assets                       assets                           Performing assets                  assets
+   In thousands of euros                               Stage 1            Stage 2              Stage 3            Total         Stage 1        Stage 2             Stage 3           Total
+   Rating
+   from AAA to BBB- (RC1 to RC2)                    9,305,728             107,022               19,450        9,432,200       9,178,229        113,255              21,394       9,312,878
+   from BB+ to CCC (RC3, RC4, RC5)                 15,285,773           4,134,847              407,397       19,828,017      16,507,921      3,304,314             457,352      20,269,587
+   Not applicable (1)                                          -                  -                   -                -                -                 -                 -            -
+   Doubtful (RC6)                                              -                  -          1,590,353        1,590,353                 -                 -      1,587,426       1,587,426
+   Total                                           24,591,501           4,241,869            2,017,200      30,850,569       25,686,150      3,417,569           2,066,172      31,169,891
+   (1) Unused assets relate to budgets granted pending allocation to a final beneficiary.
+
+
+
+   Securities at fair value through other comprehensive income that may be recycled or at amortised
+   cost
+                                                                            30 Jun 25                                                                31 Dec 24
+                                                  Performing assets                          assets                            Performing assets                   assets
+   In thousands of euros                         Stage 1             Stage 2                Stage 3            Total          Stage 1         Stage 2             Stage 3            Total
+   Rating
+
+   from AAA to BBB- (Investment)              6,187,054                      -                    -        6,187,054        4,069,852                 -                 -        4,069,852
+
+   from BB+ to CCC (Speculative)                573,384                 5,748                     -         579,131          557,170            6,785                   -         563,955
+   Not applicable (1)                                    -                   -                    -                -                -                 -                 -                -
+   Doubtful                                              -                   -                 558              558                 -                 -              950              950
+   Total                                      6,760,437                 5,748                  558         6,766,743        4,627,021           6,785                950         4,634,757
+
+
+   Financing commitments
+   Non-sovereign
+                                                                            30 Jun 25                                                                31 Dec 24
+                                                                                        Doubtful                                                                 Doubtful
+                                                  Performing assets                       assets                               Performing assets                   assets
+   In thousands of euros                         Stage 1             Stage 2                Stage 3            Total          Stage 1         Stage 2             Stage 3            Total
+   Rating
+   from AAA to BBB- (Investment)              1,624,348                 6,000                     -        1,630,348        1,490,465           2,200                   -        1,492,665
+
+   from BB+ to CCC (Speculative)              2,799,608              207,718                      -        3,007,326        3,000,747        256,824                    -        3,257,571
+   Not applicable (1)                           112,408                      -                    -         112,408          112,408                  -                 -         112,408
+   Doubtful                                              -                   -              117,870         117,870                 -                 -           136,723         136,723
+   Total                                      4,536,363              213,718                117,870        4,867,951        4,603,620        259,024              136,723        4,999,367
+   (1) Unused assets relate to budgets granted pending allocation to a final beneficiary.
+
+
+   Sovereign
+                                                                            30 Jun 25                                                                31 Dec 24
+                                                                                        Doubtful                                                                 Doubtful
+                                                  Performing assets                       assets                               Performing assets                   assets
+   In thousands of euros                         Stage 1             Stage 2                Stage 3            Total          Stage 1         Stage 2             Stage 3            Total
+   Rating
+   from AAA to BBB- (RC1, RC2)                2,852,640                      -                    -        2,852,640        3,043,230                 -                 -        3,043,230
+   from BB+ to CCC (RC3, RC4,
+                                              9,076,474            1,906,793                 95,000       11,078,266        9,083,472       1,211,653              95,000       10,390,125
+   RC5)
+   Not applicable (1)                                    -                   -                    -                -                -                 -                 -                -
+   Doubtful (RC6)                                        -                   -              525,527         525,527                 -                 -           561,681         561,681
+   Total                                     11,929,113            1,906,793                620,527       14,456,433       12,126,702       1,211,653             656,681       13,995,036
+   (1) Unused assets relate to budgets granted pending allocation to a final beneficiary.
