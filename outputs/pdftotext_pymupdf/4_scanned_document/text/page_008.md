@@ -1,0 +1,153 @@
+Sexual Exploitation
+
+Involves exploitative situations and relationships where people receive ‘something’ (e.g. accommodation,
+alcohol, affection, money) as a result of them performing, or others performing on them, sexual activities.
+
+ 
+   
+    
+  
+ 
+ 
+  
+ 
+  
+
+  
+ 
+
+Self-Neglect
+Covers a wide range of behaviour; ne
+
+ 
+
+lecting to care for one’s bersonal h
+
+      
+
+giene, health.
+
+   
+
+SECTION 5
+DETAILS OF THE PERSON ALLEGED TO HAVE CAUSED HARM
+
+LOCATION OF ALLEGED INCIDENT/CONCERN
+
+  
+   
+  
+
+Own Home
+
+The residence where the adult at risk usually lives. Includes property owned/rented by the individual,
+family or friends.
+
+ 
+     
+ 
+
+Care Home — Nursing
+Can be used whether the person is at the care home ona permanent . = te nporeyy basis.
+
+  
+  
+
+Care Home — Residential
+Can be used whether the person is at the care home ona perma, nt or temporary basis.
+
+  
+  
+
+Supported Living
+Can include any type of supported accommodation, sich 03 ‘dependent living.
+
+  
+   
+  
+
+Day Centre/Community Service
+
+Can include things like community centres, «w. care ce: ‘res, leisure centres, libraries, schools, GP
+Surgeries and dental surgeries,
+
+   
+     
+ 
+
+Alleged Perpetrator’s Home
+Can include any incident that occurs i") the | »r2 of ine abuser.
+
+Hospital / Health Setting
+Can include any type of hospital premi ese individual at risk could be a patient or a visitor.
+
+Other
+
+Includes any other Setting \thut dons not fit into one of the above categories. This could include
+businesses, offices, pubs ana the people's homes.
+
+WHAT IS THE RELATIONSHIP OF THE ALLEGED P
+
+Care Staff Known
+
+e Day Care Staff ¢ Known — Community Health
+
+¢ Domiciliary Care Staff Care
+
+© Health Care Worker * Known — Other Private
+
+e Residential Care Staff Sector
+
+e Known — Other Public
+Sector
+
+e Known — Other Voluntary
+Sector
+
+® Known — Police
+
+¢ Known — Primary Health
+Care
+
+¢ Known — Regulator
+
+e Known — Relative/Famil
+
+  
+     
+   
+    
+    
+     
+ 
+
+  
+   
+           
+ 
+
+    
+    
+ 
+  
+ 
+
+ 
+
+ERPETRATOR TO THE ADULT?
+Not Recorded
+
+       
+ 
+       
+   
+ 
+   
+   
+   
+   
+   
+    
+   
+
+V5.1 March 19

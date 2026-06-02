@@ -1,0 +1,57 @@
+Agreement. The arbitration shall take place in [location], pursuant to the JAMS Comprehensive
+Arbitration Rules and Procedures [and in accordance with the Expedited Procedures in those rules] [or
+pursuant to JAMS’ Streamlined Arbitration Rules and Procedures]; provided, however, that there shall be
+limited discovery prior to the arbitration hearing as follows: (x) exchange of witness lists and copies of
+documentary evidence and documents relating to the issues to be arbitrated, (y) depositions of all party
+witnesses, and (z) such other depositions as may be allowed by the arbitrators upon a showing of good
+cause. Depositions shall be conducted in accordance with the [state] Code of Civil Procedure, the
+arbitrator shall be required to provide in writing to the parties the basis for the award or order of such
+arbitrator, and a court reporter shall record all hearings, with such record constituting the official
+transcript of such proceedings. Judgment on the award may be entered in any court having jurisdiction.]36
+
+[Alternative 2:
+
+         The parties (i) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts
+of [state] and to the jurisdiction of the United States District Court for the District of [judicial district] for
+the purpose of any suit, action or other proceeding arising out of or based upon this Agreement, (ii) agree
+not to commence any suit, action or other proceeding arising out of or based upon this Agreement except
+in the state courts of [state] or the United States District Court for the District of [judicial district], and
+(iii) hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit,
+action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named
+courts, that its property is exempt or immune from attachment or execution, that the suit, action or
+proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is
+improper or that this Agreement or the subject matter hereof may not be enforced in or by such court.]
+
+                (b)      Each of the parties to this Agreement consents to personal jurisdiction for any
+equitable action sought in the U.S. District Court for the District of [_____] or any state court of [state]
+having subject matter jurisdiction.
+
+            (c)  WAIVER OF JURY TRIAL: EACH PARTY HEREBY WAIVES ITS RIGHTS
+TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT
+OF THIS AGREEMENT, THE OTHER TRANSACTION AGREEMENTS, THE SECURITIES OR
+THE SUBJECT MATTER HEREOF OR THEREOF. THE SCOPE OF THIS WAIVER IS INTENDED
+TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY
+COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION,
+INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING
+NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND
+STATUTORY CLAIMS. THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE
+PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS.
+EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH
+PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH
+PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING
+CONSULTATION WITH LEGAL COUNSEL.37
+
+36
+     Binding arbitration may be less expensive and more efficient than litigating disputes in court. Additionally, it
+may be more confidential. However, some parties dislike that the result cannot be appealed, and the arbitrator(s) is
+not bound to follow case law and precedent.
+37
+     If the parties select California state court as the forum for any dispute resolution, a jury trial waiver will likely
+be unenforceable. Instead, the parties can choose to submit to trial by judicial referee, a private person (typically a
+retired judge) the parties select. All California rules of court, procedure and evidence govern judicial reference
+proceedings and, unlike with arbitration, the decision may be appealed. Accordingly, if the parties select California
+state court, and would like to backstop the jury waiver, we recommend including the following provision as a next
+paragraph:
+
+
+Last Updated October 2025                                  19

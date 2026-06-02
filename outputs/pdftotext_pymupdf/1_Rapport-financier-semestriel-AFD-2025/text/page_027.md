@@ -1,0 +1,50 @@
+AFD – 2025 half-year financial report                                                                           27
+
+
+   These financial assets are initially measured at their fair value plus transaction costs. They are
+   subsequently measured at fair value and changes in fair value are recorded in other comprehensive
+   income that may be recycled. They are also subject to a calculation of expected credit risk losses on the
+   same terms as those applicable to debt securities at amortised cost (Note 5 “Financial instruments at
+   amortised cost”).
+   Interest is recorded as income using the effective interest rate method.
+   Upon disposal, changes in value previously recognised in other comprehensive income will be
+   transferred to the income statement.
+
+   c) Debt securities at fair value through profit and loss
+   This category includes debt securities that do not comply with the SPPI criteria:
+      Equity investment in funds and direct securities with put options and other debt securities (e.g.
+       UCITS, etc.)
+   The characteristics of the contractual flows are such that these do not pass the SPPI test, therefore they
+   cannot be measured at amortised cost.
+   In line with its procedures, AFD classifies its financial assets using two primary criteria: assets listed on a
+   market and unlisted assets.
+   Listed assets are divided into two subgroups, those listed on an “active” market, an attribute that is
+   appraised according to objective criteria, or those listed on an inactive market. Assets listed on an
+   “active” market are automatically classified as fair value level 1 according to IFRS 13. Assets listed on an
+   “inactive” market are classified as fair value level 2 or 3, depending on the valuation method used. When
+   there are direct or indirect observable data used for the valuation, the asset is classified as fair value
+   level 2 according to IFRS 13.
+   When there are no such data or those data are not “observable” (isolated observation, without
+   recurrence), the asset is classified as fair value level 3, just like the unlisted assets. All unlisted assets are
+   classified as fair value level 3 and are evaluated primarily using two methods, the proportionate share
+   of the re-evaluated net asset based on the latest financial statements transmitted by the concerned
+   entities (< six months) and the historic cost for AFD’s real estate subsidiaries.
+   Valuations are reviewed every six months. In the event of any changes to the parameters that could be
+   cause for changes to the fair value classification level, the Group Risk Department decides to propose
+   the change in classification that is subject to approval by the Group Risk Management Committee.
+      Loans
+   Some loan agreements have an early repayment clause, the contractual amount of which corresponds
+   to a settlement equal to the cost of unwinding an associated hedge swap. The early repayment flows of
+   these loans are considered to be non-SPPI if they do not purely reflect the effect of changes in the
+   reference interest rates.
+   As a result, AFD Group has identified a loan portfolio which is measured at fair value through profit
+   and loss. The loans are therefore subjected to a valuation exercise based on the methodology for
+   discounting future flows, with a discount rate specific to each loan.
+      Foreign exchange or interest rate derivatives used in economic hedging
+   These are derivatives that do not meet the definition of hedge accounting under IAS 39. These assets
+   and liabilities are measured at fair value in the income statement. The change in fair value is recorded
+   in the income statement under “net gains and losses on financial instruments at fair value”. The fair
+   value of the foreign exchange derivatives entered into by AFD frequently includes a hedge of the future
+   margin on loans denominated in foreign currencies. The foreign exchange income from related assets
+   recognised in income or expenses on other activities partially offsets this impact. The amount initially
+   recorded on the balance sheet for a derivative measured at fair value is equal to the consideration given

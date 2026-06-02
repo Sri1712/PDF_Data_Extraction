@@ -1,0 +1,56 @@
+7.12    Share Certificate Legend. Each certificate, instrument, or book entry representing any
+Shares issued after the date hereof shall be notated by the Company with a legend reading substantially as
+follows:
+
+         “THE SHARES REPRESENTED HEREBY ARE SUBJECT TO A VOTING
+         AGREEMENT, AS MAY BE AMENDED FROM TIME TO TIME (A COPY OF
+         WHICH MAY BE OBTAINED UPON WRITTEN REQUEST FROM THE
+         COMPANY), AND BY ACCEPTING ANY INTEREST IN SUCH SHARES THE
+         PERSON ACCEPTING SUCH INTEREST SHALL BE DEEMED TO AGREE TO
+         AND SHALL BECOME BOUND BY ALL THE PROVISIONS OF THAT VOTING
+         AGREEMENT, INCLUDING CERTAIN RESTRICTIONS ON TRANSFER AND
+         OWNERSHIP SET FORTH THEREIN.”
+
+The Company, by its execution of this Agreement, agrees that it will cause the certificates, instruments, or
+book entry evidencing the Shares issued after the date hereof to be notated with the legend required by
+this Section 7.12 of this Agreement, and it shall supply, free of charge, a copy of this Agreement to any
+holder of such Shares upon written request from such holder to the Company at its principal office. The
+parties to this Agreement do hereby agree that the failure to cause the certificates, instruments, or book
+entry evidencing the Shares to be notated with the legend required by this Section 7.12 herein and/or the
+failure of the Company to supply, free of charge, a copy of this Agreement as provided hereunder shall
+not affect the validity or enforcement of this Agreement.
+
+        7.13    Stock Splits, Dividends and Recapitalizations. In the event of any issuance of Shares or
+the voting securities of the Company hereafter to any of the Stockholders (including, without limitation,
+in connection with any stock split, stock dividend, recapitalization, reorganization, or the like), such
+Shares shall become subject to this Agreement and shall be notated with the legend set forth in Section
+7.12.
+
+        7.14     Manner of Voting. The voting of Shares pursuant to this Agreement may be effected in
+person, by proxy, by written consent or in any other manner permitted by applicable law. For the
+avoidance of doubt, voting of the Shares pursuant to the Agreement need not make explicit reference to
+the terms of this Agreement.
+
+         7.15    Further Assurances. At any time or from time to time after the date hereof, the parties
+agree to cooperate with each other, and at the request of any other party, to execute and deliver any
+further instruments or documents and to take all such further action as the other party may reasonably
+request in order to carry out the intent of the parties hereunder.
+
+         7.16    Dispute Resolution.
+
+                 (a)     [Alternative 1: Except as (i) otherwise provided in this Agreement, or (ii) any
+disputes, controversies, or claims arising out of either party’s intellectual property rights for which a
+provisional remedy or equitable relief is sought, any unresolved dispute, controversy, or claim arising out
+of or relating to this Agreement or the breach, termination, enforcement, interpretation, or validity
+thereof, including the determination of the scope or applicability of this agreement to arbitrate, shall be
+resolved by arbitration before a single arbitrator. Such arbitrator shall be mutually agreed upon by the
+parties, and if no agreement can be reached within 30 days after names of potential arbitrators have been
+proposed by Judicial Arbitration and Mediation Services, Inc. (“JAMS”),35 then JAMS shall choose one
+arbitrator having reasonable experience in corporate finance transactions of the type provided for in this
+
+
+35
+     Some parties prefer to use the American Arbitration Association (“AAA”) instead of JAMS.
+
+
+Last Updated October 2025                              18
