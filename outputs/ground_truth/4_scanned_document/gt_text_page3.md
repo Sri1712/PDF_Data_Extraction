@@ -2,8 +2,7 @@
 wheelchair he depends fully on his husband to 
 meet his needs. |
 
-| **<u>Making Safeguarding Personal (MSP)</u><br/>**
-**Please discuss with the Adult if safe and able to do so** |
+| **<u>Making Safeguarding Personal (MSP)</u><br/> Please discuss with the Adult if safe and able to do so** |
 | ---------------------------------------------------------------------------------------------- |
 | **What are the views and wishes of the Adult?**      |
 | Patient wants to feel safe, he is scared and doesn't know which way to turn. He is willing to accept support.              |
