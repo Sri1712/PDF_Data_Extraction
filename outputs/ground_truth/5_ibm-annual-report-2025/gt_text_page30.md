@@ -9,7 +9,7 @@ This section provides the year-to-year performance by revenue categories within 
 # Software
 
 `($ in millions)` 
-| For the year ended December 31: | -------- | 2024 (1) | -------- | 2023 (1) | Yr.-to-Yr. Percent Change | Yr.-to-Yr. Percent Change Adjusted for Currency |
+| For the year ended December 31: |        | 2024 (1) |          | 2023 (1) | Yr.-to-Yr. Percent Change | Yr.-to-Yr. Percent Change Adjusted for Currency |
 | ---------------------- | ------------------------------- | -------- | -------- | ----------------- | ------------------------- | --------------------- |
 | Software revenue       | $                               | 27,085   | $ |  25,011   | 8.3 %             | 9.0 %                 |
 | Hybrid Cloud           | $                               | 6,490    | $ |  5,827    | 11.4 %            | 12.0 %                |
