@@ -2,8 +2,8 @@
 International Business Machines Corporation and Subsidiary Companies
 
 
-### MANAGEMENT DISCUSSION                                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
-Overview                                                  6   **Basis & Policies**
+### MANAGEMENT DISCUSSION                                     NOTES TO CONSOLIDATED FINANCIAL STATEMENTS <br>
+Overview                                                  6   **Basis & Policies** <br>
 Forward-Looking and Cautionary Statements                 7   **A** Significant Accounting Policies                 48
 Management Discussion Snapshot                            8   **B** Accounting Changes                              62
 Description of Business                                  11   **Performance & Operations**
