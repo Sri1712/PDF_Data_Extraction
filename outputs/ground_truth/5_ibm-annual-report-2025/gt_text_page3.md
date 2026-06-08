@@ -1,6 +1,6 @@
-                                                  # Dear IBM Investor:
+##### Dear IBM Investor:
 
-                                                  **IBM’s strategy is built on two technology
+                                                  IBM’s strategy is built on two technology
                                                   foundations: hybrid cloud and AI. Together,
                                                   they unlock the full value of enterprise
                                                   data and enable businesses to operate
@@ -13,7 +13,7 @@ Arvind Krishna                                    platforms that will define the
 Chairman, President and Chief Executive Officer   computing, including quantum. As this
                                                   report demonstrates, that strategy is
                                                   generating strong returns for our clients
-                                                  and shareholders.**
+                                                  and shareholders.
 
                                                   2025 was the year business leaders stopped speculating
                                                   about what AI could do and started asking what it would
