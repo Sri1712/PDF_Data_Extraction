@@ -1,0 +1,20 @@
+AFD – 2025 half-year financial report 49
+
+## Note 22 – Financing and guarantee commitments
+
+Financing commitments given are the amounts to be disbursed under lending agreements with customers or credit institutions.
+
+| In thousands of euros                                         | 30 Jun 25  | 31 Dec 24  |
+| ------------------------------------------------------------- | ---------- | ---------- |
+| *Commitments received*                                        |            |            |
+| Guarantee commitments received from the French State on loans | 5,510,425  | 5,084,284  |
+| Guarantee commitments received from credit institutions       | 209,459    | 431,456    |
+| *as part of the Group's credit activity*                      | *209,459*  | *431,456*  |
+| *Commitments given*                                           |            |            |
+| Financing commitments made to credit institutions             | 2,353,248  | 2,588,677  |
+| Financing commitments made to customers                       | 17,086,962 | 16,758,075 |
+| Guarantee commitments made to credit institutions             | 382,523    | 452,268    |
+| Guarantee commitments made to customers                       | 1,078,867  | 1,058,367  |
+
+
+The commitment amount is lower than the figure stated in AFD’s parent company financial statements because the transactions on behalf of third parties (on behalf of the French State) are not included in the Group’s consolidated financial statements.

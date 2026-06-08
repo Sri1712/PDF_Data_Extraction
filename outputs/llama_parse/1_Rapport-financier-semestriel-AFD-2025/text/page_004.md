@@ -1,0 +1,33 @@
+AFD – 2025 half-year financial report 4
+
+# A. Management report
+
+## 1. AFD Group activities
+
+### Approvals
+
+The total amount of approvals (excluding Proparco refinancing and sub-participations) at 30 June 2025 amounted to €3,705M, compared with €2,282M at 30 June 2024, an increase of +€1,423M (+62%). This change was mainly due to a +€892M (+90%) increase in AFD's current activities in foreign states, from €997M in June 2024 to €1,889M this year, as well as activities in the French Overseas Departments and Collectivities, +€533M (+264%).
+
+### Activities in foreign countries
+
+<u>On its own behalf</u>
+
+The AFD's own-account activities in foreign countries (excluding Proparco refinancing and sub-participations) amounted to €1,635M, compared to €835M last year, a marked increase of +€800M (+96%). This increase was mainly due to loan approvals, mainly on sovereign loans +€674M (+187%) and non-sovereign loans +€178M (+141%). Grant awards were down compared to last year by -€109M (-38%), from €289M in June 2024 to €179M in June 2025.
+
+<u>On behalf of third parties</u>
+
+Approvals for activities on behalf of third parties increased by +€92M (+57%), from €162M in June 2024 to €254M at the end of June 2025. Activities on behalf of the French State, and more specifically debt conversions (including C2D), were up sharply, by +€35M (+105%), from €33M at 30 June 2024 to €67M at 30 June 2025.
+
+### Activities in the French Overseas Departments and Collectivities
+
+<u>On its own behalf</u>
+
+Own-account approvals in the French Overseas Departments and Collectivities amounted to €175M at 30 June 2025, compared to €202M at 30 June 2024, down -€26M (-13%). This decrease was mainly due to loans to the private sector at market conditions of -€30M (-52%), and to a lesser extent to a decrease in grants of -€4M (-38%) as well as loans to the public sector at market conditions amounting to -€8M (-14%). Subsidised loans to the public sector increased by +€15M (+22%).
+
+<u>Loans guaranteed by the French State</u>
+
+Activities guaranteed by the State in the French Overseas Departments and Collectivities amounted to €560M at the end of June 2025. This related to granting a State-guaranteed loan to New Caledonia in the amount of €560M.
+
+### Proparco’s activity
+
+Proparco's approvals in foreign countries (including Fisea and Trade Finance) amounted to €1,081M at the end of June 2025, down -€3M (-0.2%) compared to the same period in 2024 (€1,084M).

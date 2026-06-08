@@ -1,0 +1,13 @@
+AFD – 2025 half-year financial report 12
+
+## 2.5. Operational outlook
+
+AFD Group’s 2025 activity is aligned with the guidelines of the CICID<sup>12</sup> of 18 July 2023 and the CPPI<sup>13</sup> of April 2025, which redefined the main guidelines for solidarity-based and sustainable investment policy and international partnerships. The Contract of Objectives and Means (COM) could not be finalised in 2024, due to the sharp decrease in budgetary resources. Discussions are ongoing. This COM is based on 24 indicators, including 10 major political objectives, and one geographic priority: Least Developed Countries (LDCs)/vulnerable countries<sup>14</sup>. The targets of these objectives are currently being defined, with regard to the resources allocated.
+
+In this constrained budgetary context, AFD Group's budgetary resources decreased significantly. For the 110 programme, the amount notified in subsidies for 2025 amounted to €820M, down 24% compared to 2024 (€1,080M). The impact on the volume of subsidised loans will be significant in a context of interest rates that remain high, but will be partially offset by more dynamic non-subsidised business than in 2024. Grant resources (110 and 209, including C2D and NGOs) decreased sharply to €745M following the budget cuts made as part of the 2025 finance bill. The decrease in resources could have an impact of around -€1bn in business (excluding the New Caledonia SGL).
+
+In 2025, AFD Group transitioned from disbursement-based management to signature-based management, while maintaining a close monitoring of approvals. The Group's signature target remained stable at €11.4bn with an execution rate of 45% at mid-year. On the other hand, the target for disbursements was revised upwards, now reaching €9bn, including €1.7bn for Proparco. The disbursement execution rate was 40% at the end of June 2025.
+
+<sup>12</sup> Interministerial Committee for International Co-operation and Development.
+<sup>13</sup> Presidential Council for International Partnerships
+<sup>14</sup> Least Developed Countries

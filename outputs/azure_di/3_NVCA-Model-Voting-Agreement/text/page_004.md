@@ -1,0 +1,60 @@
+(a)
+[As a Preferred Director, [Example 1: one person designated from time to time by
+[Name of Investor], for so long as [Name of Investor] and its Affiliates (i) continue to beneficially own an
+aggregate of at least
+] shares of Preferred Stock, which number is subject to appropriate
+adjustment for any stock splits, stock dividends, combinations, recapitalizations and the like and (ii) are
+not Sanctioned Parties, which individual as of the date of this Agreement is
+];][Example
+2: As a Preferred Director, one person designated from time to time by [Name of Investor], for so long as
+[Name of Investor] and its Affiliates (i) continue to beneficially own an aggregate of at least
+1% of
+the outstanding capital stock of the Company on an as-converted basis, and (ii) are not Sanctioned Parties,
+which individual as of the date of this Agreement is|
+];]
+(b)
+[As a Common Director, [Example 1: one individual who is designated by
+Qualified Key Holders holding a majority of the shares of Common Stock held by Qualified Key Holders,
+for so long as any Qualified Key Holder holds any shares of Common Stock, which individual as of the
+date of this Agreement is
+];] [Example 2: [name of a Common Director], for so long as
+such director [remains a [full-time] employee [or consultant (excluding service solely as member of the
+Board)] of the Company][, except that if such director resigns or is unable to serve, then one individual
+who is designated by Qualified Key Holders holding a majority of the shares of Common Stock held by
+Qualified Key Holders for so long as any Qualified Key Holder holds any shares of Common Stock];11]
+(c)
+[As the [other] Common Director, the Company's Chief Executive Officer (the
+"CEO Director"), who as of the date of this Agreement is
+], provided that if for any reason the
+CEO Director shall cease to serve as the Chief Executive Officer of the Company, each of the
+Stockholders shall promptly vote their respective Shares (i) to remove the former Chief Executive Officer
+from the Board if such person has not resigned from the position of CEO Director; and (ii) to elect the
+then-current Chief Executive Officer of the Company to serve as the new CEO Director; and]
+(d)
+[As [each/the] Mutual Director, [one individual who is not otherwise an Affiliate
+of the Company or of any Investor and who is designated by mutual agreement of the other then-seated
+members of the Board (the "Mutual Director"), which individual as of the date of this Agreement is
+]].
+For clarity, to the extent that the election of a director pursuant to any of foregoing clauses (a)
+through [(d)] above shall not be applicable, or shall cause the Company to violate applicable Sanctions,
+any member of the Board who would otherwise have been designated in accordance with the terms
+thereof shall instead be voted upon by all the stockholders of the Company entitled to vote thereon in
+accordance with, and pursuant to, the Restated Certificate.
+1.3
+Vacancies. Any vacancies in the Board shall be filled only pursuant to the provisions of
+Section 1.2.12
+10
+The number of permutations of board composition and their conditions are almost limitless. Section 1.2
+provides a selection of common, but not exhaustive or exclusive, examples; additional positions can be added as
+needed and the provisions will need careful tailoring to the terms of the particular transaction and associated
+provisions of the certificate of incorporation.
+11
+Careful consideration should be given whenever an individual is named to serve as a director who may have the
+ability to continue to serve at such person's pleasure. Alternative 1 provides that a founder director shall be elected
+by either the majority of the shares of common stock held by the Key Holders, or the majority of the shares of
+common stock outstanding. It's possible that the individual who will hold the common director seat may hold a
+sufficient number of shares of stock to control that vote. Alternative 2 has a variety of choices: the first ties the
+board seat to an individual's continued status as an officer or employee, which may be within the control of the
+majority of the board of directors; the other alternatives tie the right only to continued minimum stock holdings.
+Last Updated October 2025
+4

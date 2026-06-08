@@ -1,0 +1,219 @@
+103
+Notes to the Consolidated Financial Statements
+International Business Machines Corporation and Subsidiary Companies
+NOTE U. RETIREMENT-RELATED BENEFITS
+Description of Plans
+IBM sponsors the following retirement-related plans/benefits:
+Plan
+Eligibility
+Funding
+Benefit Calculation
+Other
+U.S. Defined Benefit
+(DB) Pension Plans
+IBM Personal Pension
+Plan (Qualified PPP)
+which includes the
+Retirement Benefit
+Account ("RBA") as of
+January 1, 2024
+U.S. regular, full-time
+and part-time
+employees hired prior
+to January 1, 2005
+RBA - U.S. regular, full-
+time and part time
+employees with at
+least one year of
+service on or after
+January 1, 2024
+Any company
+contributions, required
+or voluntary, are to an
+irrevocable trust fund,
+held for the sole
+benefit of participants
+and beneficiaries
+Vary based on the
+participant:
+Based on average
+earnings, years of
+service and age
+Cash balance formula
+based on percentage of
+employees' annual
+salary, as well as an
+interest crediting rate
+(includes RBA as of
+January 1, 2024)
+Excluding RBA, benefit
+accruals ceased
+December 31, 2007
+Certain defined benefit
+pension obligations
+and related plan assets
+were transferred in
+2024, as described
+under "IBM Retirement
+Plan Changes," below
+Excess Personal
+Pension Plan ("Excess
+PPP”)
+U.S. regular, full-time
+and part-time
+employees hired prior
+to January 1, 2005
+Unfunded, provides
+benefits in excess of
+IRS limitations for
+qualified plans
+Benefit accruals
+ceased December 31,
+2007
+Supplemental
+Executive Retention
+Plan ("Retention Plan")
+Eligible U.S. executives
+Unfunded
+Based on average
+earnings, years of
+service and age
+U.S. Defined
+Contribution (DC)
+Plans
+401(k) Plan
+U.S. regular, full-time
+and part-time
+employees
+All plan participant
+contributions are made
+in cash and invested in
+accordance with
+participants'
+investment elections
+Employees can save up
+to 80% of eligible pay,
+subject to the Internal
+Revenue Code (IRC)
+annual contribution
+limit
+All amounts in the plan
+are 100% vested
+Excess Savings Plan
+U.S. employees whose
+eligible compensation
+is expected to exceed
+IRS compensation limit
+for qualified plans
+Unfunded, non-
+qualified amounts
+deferred are record-
+keeping (notional)
+accounts and are not
+held in trust for the
+participants, but may
+be invested in
+accordance with
+participants'
+investment elections
+(under the 401(k) Plan
+options)
+Company matches
+contributions on
+eligible compensation
+deferred and on
+compensation earned
+in excess of the IRC
+pay limit
+Amounts deferred into
+the Plan, including
+company contributions,
+are recorded as
+liabilities
+U.S. Nonpension
+Postretirement
+Benefit Plan
+Nonpension
+Postretirement Plan
+(IBM Benefits Plan for
+Retired Employees)
+Medical and dental
+benefits for eligible
+U.S. retirees and
+eligible dependents, as
+well as life insurance
+for eligible U.S. retirees
+Company contributes
+to irrevocable trust
+fund, held for the sole
+benefit of participants
+and beneficiaries
+Varies based on plan
+design formulas and
+eligibility requirements
+Since January 1, 2004,
+new hires are not
+eligible for these
+benefits
+Non-U.S. Plans
+DB or DC
+Eligible regular
+employees in certain
+non-U.S. subsidiaries
+or branches
+Company deposits
+funds under various
+fiduciary-type
+arrangements,
+purchases annuities
+under group contracts
+or provides reserves for
+these plans
+Based either on years
+of service and the
+employee's
+compensation
+(generally during a
+fixed number of years
+immediately before
+retirement) or on
+annual credits
+In certain countries,
+benefit accruals have
+ceased and/or have
+been closed to new
+hires as of various
+dates
+Certain defined benefit
+pension obligations
+and related plan assets
+were transferred in
+2024, as described
+under "IBM Retirement
+Plan Changes," below
+Nonpension
+Postretirement Plan
+Medical and dental
+benefits for eligible
+non-U.S. retirees and
+eligible dependents, as
+well as life insurance
+for certain eligible non-
+U.S. retirees
+Primarily unfunded
+except for a few select
+countries where the
+company contributes to
+irrevocable trust funds
+held for the sole
+benefit of participants
+and beneficiaries
+Varies based on plan
+design formulas and
+eligibility requirements
+by country
+Most non-U.S. retirees
+are covered by local
+government sponsored
+and administered
+programs

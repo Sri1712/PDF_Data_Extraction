@@ -1,0 +1,34 @@
+AFD – 2025 half-year financial report 25
+
+instruments and the business model at the time of initial recognition. Financial liabilities are classified at amortised cost or at fair value through profit and loss.
+
+AFD Group continues to apply the provisions of IAS 39 on hedging while awaiting the future provisions on macro-hedges.
+
+### Financial assets
+
+#### Classification and measurement of financial assets
+Upon initial recognition, financial assets are measured at their fair value as defined in IFRS 13 and are classified in the Group’s balance sheet in one of three categories (amortised cost, fair value through other comprehensive income or fair value through profit and loss), as defined in IFRS 9. Purchases/sales of financial assets are recognised at the completion date. The accounting classification defines the way in which the financial assets are subsequently measured.
+
+This classification depends on the characteristics of their contractual flows and the way in which the entity manages its financial instruments (business model).
+
+**The contractual characteristics (“Solely Payments of Principal & Interests” or “SPPI” test)**
+Contractual cash flows which fall into the “Solely payments of principal & interests” category are likened to a basic loan agreement for which interest is paid essentially in consideration of the time value of the money and the credit risk.
+
+The interest may also however contain consideration for other risks (liquidity risk, for example) and charges (admin charges, for instance) for holding the financial asset for a certain period. The interest may include a margin which is in keeping with a basic loan agreement.
+
+However, when the contractual arrangements expose the contractual cash flows to risks or volatility which are not commensurate with a basic loan agreement, for example exposure to variations in the price of equities or goods, the contractual cash flows are not solely payments of principal and interests and the contract is therefore recognised at fair value through profit and loss.
+
+**The management model**
+The management model defines how the instruments used to generate cash flows are managed.
+
+The management model is identified at portfolio level, and not instrument by instrument, primarily by analysing and observing:
+* The performance reports submitted to the Group’s Executive Management;
+* The compensation policy for portfolio managers;
+* Completed and anticipated asset sales (size, frequency, etc.).
+
+Based on the criteria observed, the three management models for the classification and measurement of financial assets are:
+* The collection only model for contractual cash flows of financial assets;
+* The model based on the collection of contractual cash flows and the sale of financial assets;
+* And any other model, notably the transfer only model.
+
+The recognition method for financial assets resulting from the analysis of the contractual clauses and the qualification of the management model is presented in the diagram below:

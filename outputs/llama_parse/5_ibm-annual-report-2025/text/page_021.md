@@ -1,0 +1,44 @@
+Management Discussion
+
+# International Business Machines Corporation and Subsidiary Companies
+
+# Consulting
+
+| For the year ended December 31: | 2025    | 2024    | Change   |
+| ------------------------------- | ------- | ------- | -------- |
+| Gross profit                    | $ 5,921 | $ 5,589 | 5.9 %    |
+| Gross profit margin             | 28.1 %  | 27.0 %  | 1.1 pts. |
+| Segment profit                  | $ 2,464 | $ 2,054 | 20.0 %   |
+| Segment profit margin           | 11.7 %  | 9.9 %   | 1.8 pts. |
+
+Consulting gross profit margin increased 1.1 points to 28.1 percent compared to the prior year. Segment profit of $2,464 million increased 20.0 percent and segment profit margin increased 1.8 points to 11.7 percent compared to the prior year. The gross profit, segment profit and profit margin performance in 2025 reflect the benefits from the productivity actions we have taken, partially offset by our strategic investments in acquisitions and innovation.
+
+# Consulting Signings, Book-to-Bill, and Backlog
+
+| For the year ended December 31: | 2025     | 2024     | Yr.-to-Yr. Percent Change | Adjusted for Currency |
+| ------------------------------- | -------- | -------- | ------------------------- | --------------------- |
+| Total signings                  | $ 21,757 | $ 25,103 | (13.3) %                  | (14.7) %              |
+
+# Infrastructure
+
+| For the year ended December 31: |          | 2025     | 2024   | Yr.-to-Yr. Percent Change | Adjusted for Currency |   |
+| ------------------------------- | -------- | -------- | ------ | ------------------------- | --------------------- | - |
+| Infrastructure revenue          | $ 15,718 | $ 14,020 | 12.1 % | 10.4 %                    |                       |   |
+| Hybrid Infrastructure           | $ 10,618 | $ 8,913  | 19.1 % | 16.9 %                    |                       |   |
+| IBM Z                           | 51.7     |          | 48.4   |                           |                       |   |
+| Distributed Infrastructure      | (1.8)    |          | (3.4)  |                           |                       |   |
+| Infrastructure Support          | $ 5,100  | $ 5,107  | (0.1)  | (1.0)                     |                       |   |
+
+Infrastructure revenue of $15,718 million increased 12.1 percent as reported (10.4 percent adjusted for currency) as compared to the prior year, driven by Hybrid Infrastructure reflecting the strength of our IBM z17 program which was launched in June 2025.
+
+Hybrid Infrastructure revenue of $10,618 million increased 19.1 percent as reported (16.9 percent adjusted for currency) as compared to the prior year. Within Hybrid Infrastructure, IBM Z revenue increased 51.7 percent as reported (48.4 percent adjusted for currency), reflecting the strong performance of z17. Clients are investing in z17 for its differentiated capabilities, real-time AI inferencing, quantum-safe security, and AI-driven operational efficiency which are critical when modernizing mission-critical workloads and data intensive environments. IBM Z continues to be the backbone of enterprise IT, enabling clients to integrate seamlessly with hybrid cloud while unlocking new levels of resiliency, scalability, and performance. The current performance from the z17 program has outpaced prior product cycles, reflecting how IBM Z remains an enduring platform with its innovative capabilities around AI workloads and hybrid cloud architecture.
+
+Consulting signings decreased 13.3 percent as reported and 14.7 percent adjusted for currency in 2025, compared to our strong performance in signings in 2024. The mix of signings continued to improve as we exited 2025, with a greater share of strategic wins from both new clients and expanded engagements with existing clients. Our book-to-bill ratio over the trailing twelve months was 1.03. Book-to-bill represents the ratio of IBM Consulting signings to its revenue over the same period and is a useful indicator of the demand for our business over time. Backlog at year end 2025 was $31.9 billion, an increase of approximately $0.5 billion compared to year end 2024.
+
+Signings are management’s initial estimate of the value of a client’s commitment under a services contract. The calculation used by management involves estimates and judgments to gauge the extent of a client’s commitment, including the type and duration of the agreement and the presence of termination charges or wind-down costs. Backlog reflects the estimated remaining value of overall work to be recognized as revenue under services contracts, and it is calculated as the total reported signings less already recognized revenue and less any backlog adjustments.
+
+Contract extensions and increases in scope are treated as signings only to the extent of the incremental new value. Total signings can vary over time due to a variety of factors including, but not limited to, the timing of signing a small number of larger contracts. Signings associated with an acquisition will be recognized on a prospective basis. Backlog estimates are subject to change and are affected by several factors, including terminations, changes in the scope of contracts, periodic revalidations, adjustments for revenue not materialized and adjustments for currency.
+
+Management believes the estimated values of signings and backlog provide an indication of our forward-looking revenue, which are used by management as tools to monitor the performance of the business and are viewed as useful decision-making information for investors. There are no third-party standards or requirements governing the calculation of these measurements. The conversion of signings and backlog into revenue may vary based on the types of services and solutions, contract duration, customer decisions, and other factors, which may include, but are not limited to, the macroeconomic environment or external events.
+
+19

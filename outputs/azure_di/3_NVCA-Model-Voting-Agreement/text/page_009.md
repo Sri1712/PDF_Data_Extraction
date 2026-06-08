@@ -1,0 +1,54 @@
+(including the Company's or such Stockholder's organizational documents) to which the Stockholder is a
+party, or any law or judgment, order or decree of any court or governmental agency that applies to the
+Stockholder;
+(b)
+such Stockholder is not required to agree (unless such Stockholder is a Company
+officer, director, or employee) to any restrictive covenant in connection with the Proposed Sale
+(including, without limitation, any covenant not to compete or covenant not to solicit customers,
+employees or suppliers of any party to the Proposed Sale) or any release of claims other than a release in
+customary form of claims arising solely in such Stockholder's capacity as a stockholder of the Company;
+(c)
+such Stockholder and its Affiliates are not required to amend, extend or terminate
+any contractual or other relationship with the Company, the acquirer or their respective Affiliates, except
+that the Stockholder may be required to agree to terminate the investment-related documents between or
+among such Stockholder, the Company and/or other stockholders of the Company;
+(d)
+the Stockholder is not liable for the breach of any representation, warranty or
+covenant made by any other Person in connection with the Proposed Sale, other than the Company
+[(except to the extent that funds may be paid out of an escrow established to cover breach of
+representations, warranties and covenants of the Company as well as breach by any stockholder of any of
+identical representations, warranties and covenants provided by all stockholders)];
+(e)
+liability shall be limited to such Stockholder's applicable share (determined
+based on the respective proceeds payable to each Stockholder in connection with such Proposed Sale in
+accordance with the provisions of the Restated Certificate) of a negotiated aggregate indemnification
+amount that in no event exceeds the amount of consideration otherwise payable to such Stockholder in
+connection with such Proposed Sale in such person's capacity as a stockholder of the Company, except
+with respect to claims related to fraud by such Stockholder, the liability for which need not be limited as
+to such Stockholder; [and]
+(f)
+upon the consummation of the Proposed Sale (i) each holder of each class or
+series of the capital stock of the Company will receive the same form of consideration for their shares of
+such class or series as is received by other holders in respect of their shares of such same class or series of
+stock, (ii) each holder of a series of Preferred Stock will receive the same amount of consideration per
+share of such series of Preferred Stock as is received by other holders in respect of their shares of such
+same series, (iii) each holder of Common Stock will receive the same amount of consideration per share
+of Common Stock as is received by other holders in respect of their shares of Common Stock, and (iv)
+unless waived pursuant to the terms of the Restated Certificate or as may be required by law, the
+aggregate consideration receivable by all holders of the Preferred Stock and Common Stock shall be
+allocated among the holders of Preferred Stock and Common Stock on the basis of the relative liquidation
+preferences to which the holders of each respective series of Preferred Stock and the holders of Common
+Stock are entitled in a Deemed Liquidation Event (assuming for this purpose that the Proposed Sale is a
+Deemed Liquidation Event) in accordance with the Company's Restated Certificate in effect immediately
+prior to the Proposed Sale; provided, however, that, notwithstanding the foregoing provisions of this
+Section 3.2(f), if the consideration to be paid in exchange for the Shares held by the Stockholder pursuant
+to this Section 3.2(f) includes any securities and due receipt thereof by any Stockholder would require
+under applicable law (x) the registration or qualification of such securities or of any person as a broker or
+dealer or agent with respect to such securities; or (y) the provision to any Stockholder of any information
+other than such information as a prudent issuer would generally furnish in an offering made solely to
+"accredited investors" as defined in Regulation D promulgated under the Securities Act, the Company
+may cause to be paid to any such Stockholder in lieu thereof, against surrender of the Shares held by the
+Stockholder, which would have otherwise been sold by such Stockholder, an amount in cash equal to the
+fair value (as determined in good faith by the Board) of the securities which such Stockholder would
+Last Updated October 2025
+9

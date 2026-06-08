@@ -1,0 +1,16 @@
+Weighted-Average Exercise Price,Number of Shares Under Option,Description of Plans
+-------------------------------,-----------------------------,-------------------------------------------
+$ 128,"6,274,525",U.S. Defined Benefit (DB) Pension Plans
+133,"4,574,756",IBM Personal Pension Plan (Qualified PPP)
+125,"(408,045)",Options exercised
+129,"(584,674)",Options forfeited/cancelled/expired
+$ 130,"9,856,562","Balance at December 31, 2023"
+181,"3,156,770",Options granted
+133,"(2,384,273)",Options exercised
+143,"(623,663)",Options forfeited/cancelled/expired
+$ 145,"10,005,396","Balance at December 31, 2024"
+262,"1,949,882",Options granted
+137,"(1,698,270)",Options exercised
+166,"(598,034)",Options forfeited/cancelled/expired
+$ 168,"9,658,974","Balance at December 31, 2025"
+$ 137,"3,111,996","Vested and exercisable at December 31, 2025"

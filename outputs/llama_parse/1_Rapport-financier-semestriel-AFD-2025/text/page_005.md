@@ -1,0 +1,29 @@
+AFD – 2025 half-year financial report 5
+
+# <span style="color: #E30613;">Disbursements</span>
+
+The Group's payments (excluding Proparco refinancing and sub-participations) amounted to €4,211M at 30 June 2025, compared with €2,879M at 30 June 2024, up +€1,333M (+46%), mainly as a result of AFD's +€401M (+18%) disbursements in foreign states, from €2,243M in June 2024 to €2,644M this year, as well as its activities in the French Overseas Departments and Collectivities, which were up +€570M (+277%).
+
+## Activities in foreign countries
+
+<u>On its own behalf</u>
+
+With regard to current own-account activities in foreign countries (excluding Proparco refinancing and sub-participations), total disbursements stood at €2,377M at 30 June 2025, compared with €1,912M at 30 June 2024, a €465M increase (+24%). This change was mainly related to disbursements on sovereign loans amounting to +€233M (+22%) as well as on non-sovereign loans in the amount of +€56 M (+15%). Grant disbursements also increased by +€162M (+35%), from €459M in June 2024 to €621M in June 2025.
+
+<u>On behalf of third parties</u>
+
+Disbursements for activities on behalf of third parties were down -€64M (-19%), from €331M in June 2024 to €267M in June 2025. This decrease was mainly due to disbursements on Global Budgetary Support (GBS) for -€98M (-93%), from €105M at the end of June 2024 to €8M at the end of June 2025.
+
+## Activities in the French Overseas Departments and Collectivities
+
+<u>On its own behalf</u>
+
+AFD’s disbursements in the French Overseas Departments and Collectivities amounted to €216M at 30 June 2025, compared with €206M at 30 June 2024, up +€10M (+5%). This change was mainly due to loans to the public sector for +€71M (+70%), offset by a decrease in loans to the private sector at market conditions in the amount of -€57M (-60%).
+
+<u>Loans guaranteed by the French State</u>
+
+Like approvals, activities guaranteed by the State in the French Overseas Departments and Collectivities posted an increase of €560M related to the payment of the State-guaranteed loan to New Caledonia of €560M.
+
+## Proparco’s activity
+
+Proparco's disbursements in foreign countries (including Fisea) amounted to €791M, up +€361M (+84%) compared to the same period in 2024 (€430M). This change was mainly explained by the +€297M increase in loan disbursements (+89%).

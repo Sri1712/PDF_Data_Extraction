@@ -1,0 +1,21 @@
+AFD – 2025 half-year financial report 9
+
+meetings with four ministries, the Syrian central bank and with Syrian civil society. The following sectors were discussed during this mission: Agriculture, possibility of mobilising Proparco and Expertise France; Water and sanitation; Health; Expertise France and the Banque de France have identified support for the Syrian Central Bank.
+
+### Crisis in New Caledonia
+
+Since 13 May 2024, the Nouméa agglomeration, and then gradually the entire New Caledonian territory, have been the scene of serious riots initiated by a radicalised branch of the independence movement in reaction to the plan to thaw the electorate. These events caused a major economic and social shock: a 15% contraction in GDP, destruction estimated at €2bn, more than 11,600 jobs lost and a climate of community tensions. To this crisis has been added political instability, marked by the fall of the Mapou government in December 2024 and the establishment of a transitional government before the provincial elections now scheduled for the end of 2025.
+
+Since the start of the crisis, AFD has been fully mobilised, alongside the State and other players involved in the region, to respond to the emergency and the challenges that await New Caledonia in the coming years.
+
+A reinforced monitoring unit was immediately set up to ensure the safety of AFD employees and support them throughout the crisis. The Agency actively contributed to stabilisation and recovery efforts, notably through the implementation of a moratorium on loans in the portfolio (€41M carried forward) and the reinforcement of SOGEFOM's activity in order to back the private sector. The Agency also made available an employee in charge of promoting AFD’s experience in public finances and structural reforms to a task force mobilised by Bercy in order to identify highly operational responses that are quick to implement.
+
+AFD is implementing, on behalf of the French State, a State-guaranteed loan (SGL) in the amount of €1bn to provide support to New Caledonia pending the results of the structural reforms needed to revive the economy and restore social cohesion. At the end of March 2025, the Agency signed an agreement with the French State and the government of New Caledonia for the first component of the State-guaranteed loan for an amount of €560M. The entire loan was disbursed in April, mainly to repay the French State's advances made in 2024, and to meet an immediate cash need. The second component (€440M) will be examined by the end of 2025 following the ongoing negotiations between the French State and New Caledonia, as the French State wishes to make its financial support for the territory conditional on commitments to reforms.
+
+Beyond the SGL, AFD is providing support for the recovery and reconstruction of the region through its business plan: support for structural reforms by financing technical assistance (health, employment and housing), applying for European funding via the NDICI's<sup>11</sup> rapid action pillar, reviewing the financing of the largest renewable energy storage battery, and reviewing a new €150M multi-tranche facility (MTF) at the Banque Calédonienne d'Investissement (BCI) to integrate climate and biodiversity issues. Technical support was reinforced through to the Overseas development fund (FOM), while closer monitoring was set up at SIC to provide support for social housing and social ties in the most affected neighbourhoods. AFD is also continuing to provide funding to local authorities that request it and that demonstrate their sound management of the crisis, by offering them loans with deferred repayment.
+
+### Crisis in Mayotte
+
+In December 2024, Cyclone Chido devastated the Mayotte archipelago, causing major damage estimated at between €3bn and €3.5bn, and adding to an already structurally fragile situation (high demographic pressure, social tensions, precarious housing, etc.). In response, the French State has set up an interministerial reconstruction mission, enacted an emergency law for Mayotte (February 2025), and prepared a programming bill for the reconstruction of Mayotte. This programming law (adopted by
+
+<sup>11</sup> The NDICI is the European Union's main financing instrument for external cooperation.

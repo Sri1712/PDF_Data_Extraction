@@ -1,0 +1,78 @@
+Notes to the Consolidated Financial Statements
+# International Business Machines Corporation and Subsidiary Companies
+
+# NOTE B. ACCOUNTING CHANGES
+
+# New Standards to be Implemented
+
+# Intangibles - Goodwill and Other - Internal-Use Software
+
+Standard/Description–Issuance date: September 2025. This guidance requires internal-use software development cost capitalization to begin when both of the following occur: management has authorized and committed to funding the software project and, it is probable the project will be completed and the software will be used to perform its intended function. This guidance eliminates accounting considerations of software development stages.
+
+Effective Date and Adoption Considerations–The guidance is effective for the company for annual and interim reporting periods beginning January 1, 2028. Early adoption is permitted.
+
+Effect on Financial Statements or Other Significant Matters–The company is evaluating the impact of the guidance in the consolidated financial results.
+
+# Disaggregation of Income Statement Expenses
+
+Standard/Description–Issuance date: November 2024. This guidance requires a new tabular disclosure of certain types of expenses (including purchases of inventory, employee compensation, depreciation and amortization) that are included within commonly presented expense captions on the income statement. The guidance also requires the disclosure of a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively. Additionally, the guidance requires the disclosure of the total amount of selling expenses and an entity’s definition of selling expenses. The disclosures are required on an interim and annual basis.
+
+Effective Date and Adoption Considerations–The guidance is effective for the company for annual reporting periods beginning in 2027, and for interim reporting periods beginning January 1, 2028. Early adoption is permitted. The company expects to adopt the guidance as of the effective date and to apply the guidance on a prospective basis.
+
+Effect on Financial Statements or Other Significant Matters–The company continues to evaluate the need for any changes to systems, processes, data or controls to meet the additional disclosure requirements. As the guidance is a change to disclosures only, it will impact the Notes to the Consolidated Financial Statements but will not impact the consolidated financial results.
+
+# Standards Implemented
+
+# Income Tax Disclosures
+
+Standard/Description–Issuance date: December 2023. This guidance requires disaggregated disclosure of the tax rate reconciliation into eight categories, with further disaggregation required for items greater than a specific threshold. Additionally, the guidance requires the disclosure of income taxes paid disaggregated by federal, state and foreign jurisdictions.
+
+Effective Date and Adoption Considerations–The guidance is effective for annual reporting periods beginning in 2025 and early adoption was permitted. The company adopted the guidance on a prospective basis as of the effective date.
+
+Effect on Financial Statements or Other Significant Matters–The guidance is a change to disclosures only, that impacted note G, “Taxes,” but did not have an impact on the consolidated financial results.
+
+# NOTE C. REVENUE RECOGNITION
+
+# Disaggregation of Revenue
+
+In the first quarter of 2025, the company made changes to the reported revenue categories within its Software and Consulting reportable segments to better reflect the market opportunities and how IBM addresses them. Beginning January 1, 2025, the company reports revenue for Hybrid Cloud (Red Hat), Automation, Data and Transaction Processing within Software; and it no longer reports revenue for Hybrid Platform &#x26; Solutions. Within Consulting, the company reports revenue for Strategy and Technology and Intelligent Operations. These changes did not impact the company’s Consolidated Financial Statements or its reportable segments.
+
+# Revenue by Major Products/Service Offerings
+
+| For the year ended December 31: | 2025     | 2024 (1) | 2023 (1) |
+| ------------------------------- | -------- | -------- | -------- |
+| Hybrid Cloud                    | $ 7,327  | $ 6,490  | $ 5,827  |
+| Automation                      | $ 7,733  | $ 6,558  | $ 6,008  |
+| Data                            | $ 6,299  | $ 5,629  | $ 5,461  |
+| Transaction Processing          | $ 8,603  | $ 8,408  | $ 7,714  |
+| Total Software                  | $ 29,962 | $ 27,085 | $ 25,011 |
+| Strategy and Technology         | $ 11,537 | $ 11,488 | $ 11,430 |
+| Intelligent Operations          | $ 9,518  | $ 9,204  | $ 9,455  |
+| Total Consulting                | $ 21,055 | $ 20,692 | $ 20,884 |
+| Hybrid Infrastructure           | $ 10,618 | $ 8,913  | $ 9,215  |
+| Infrastructure Support          | $ 5,100  | $ 5,107  | $ 5,377  |
+| Total Infrastructure            | $ 15,718 | $ 14,020 | $ 14,593 |
+| Financing (2)                   | $ 737    | $ 713    | $ 741    |
+| Other (3)                       | $ 63     | $ 243    | $ 632    |
+| Total Revenue                   | $ 67,535 | $ 62,753 | $ 61,860 |
+
+(1) Recast to reflect January 2025 changes to the reported revenue categories within Software and Consulting segments.
+
+(2) Contains lease and loan financing arrangements which are not subject to the guidance on revenue from contracts with customers.
+
+(3) Includes reductions in revenue for estimated residual value less related unearned income on sales-type leases, which reflects the new z17 launch in June 2025. Refer to note A, "Significant Accounting Policies," for additional information. 2024 and 2023 include The Weather Company divested business which closed on January 31, 2024. Refer to note E, "Acquisitions &#x26; Divestitures," for additional information.
+
+# Revenue by Geography
+
+| For the year ended December 31: | 2025     | 2024     | 2023     |
+| ------------------------------- | -------- | -------- | -------- |
+| Americas                        | $ 33,342 | $ 31,266 | $ 31,666 |
+| Europe/Middle East/Africa       | $ 22,189 | $ 19,429 | $ 18,492 |
+| Asia Pacific                    | $ 12,004 | $ 12,058 | $ 11,702 |
+| Total                           | $ 67,535 | $ 62,753 | $ 61,860 |
+
+# Remaining Performance Obligations
+
+The remaining performance obligation (RPO) disclosure provides the aggregate amount of the transaction price yet to be recognized as of the end of the reporting period and an explanation as to when the company expects to recognize these amounts in revenue. It is intended to be a statement of overall work under contract that has not yet been performed and does not include contracts in which the customer is not committed, such as certain as-a-Service, governmental, term software license and services offerings. The customer is not considered committed when they are able to terminate for convenience without payment of a substantive penalty.
+
+The disclosure includes estimates of variable consideration, except when the variable consideration is a sales-based or usage-based royalty promised in exchange for a license of IP. Additionally, as a practical expedient, the company does not include contracts that have an original duration of one year or less. RPO estimates are subject to change and are affected by several factors, including terminations, changes in the scope of contracts, periodic revalidations, adjustment for revenue that has not materialized and adjustments for currency.

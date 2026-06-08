@@ -1,0 +1,51 @@
+AFD – 2025 half-year financial report 18
+
+# Cash flow statement at 30 June 2025
+
+| In thousands of euros                                                                          | 30 Jun 25   | 31 Dec 24     |
+| ---------------------------------------------------------------------------------------------- | ----------- | ------------- |
+| Pre-tax income (A)                                                                             | 156,385     | 378,144       |
+| Net depreciation/amortisation expenses on property, plant and equipment and intangible assets  | 28,635      | 56,109        |
+| Net depreciation/amortisation provisions on fixed assets related to the application of IFRS 16 | 8,920       | 17,919        |
+| Provisions net of other provisions (including technical insurance provisions)                  | 59,591      | 67,872        |
+| Share of earnings from companies accounted for by the equity method                            | 842         | 1,370         |
+| Net loss/(net gain) on investment activities                                                   | (42,098)    | (47,362)      |
+| Net loss/(net gain) on financing activities                                                    | 20,535      | 188,624       |
+| Other items                                                                                    | (77,951)    | 187,457       |
+| Total non-cash items included in net pre-tax income and other items (B)                        | (1,526)     | 471,989       |
+| Cash received from credit institutions and equivalent                                          | 581,525     | (888,261)     |
+| Cash received from customers                                                                   | (40,717)    | (2,575,698)   |
+| Cash flows from other operations affecting other financial assets or liabilities               | (786,422)   | (878,107)     |
+| Cash flows from operations affecting non-financial assets or liabilities                       | (729,481)   | 1,346,136     |
+| Taxes paid                                                                                     | (9,343)     | (14,298)      |
+| = Net increase (decrease) in cash-related assets and liabilities from operating activities (C) | (984,439)   | (3,010,229)   |
+| *Net cash flows from operating activities (A+B+C)*                                             | *(829,580)* | *(2,160,097)* |
+| Cash flows from financial assets and equity investments (1)                                    | 5,586       | (314,375)     |
+| Cash flows from property, plant and equipment and intangible assets                            | (88,469)    | (325,311)     |
+| *Net cash flows from investment activities*                                                    | *(82,883)*  | *(639,687)*   |
+| Cash flows related to the application of IFRS 16                                               | (5,214)     | (9,805)       |
+| Cash flows from shareholders (2)                                                               | 141,440     | 173,063       |
+| Cash flows to shareholders (3)                                                                 | (44,412)    | (50,952)      |
+| Other net cash flows from financing activities (4)                                             | 1,192,999   | 1,843,744     |
+| *Net cash flows from financing activities*                                                     | *1,284,812* | *1,956,051*   |
+| *Net increase/(decrease) in cash and cash equivalents*                                         | *372,350*   | *(843,733)*   |
+| *Opening balance of cash and cash equivalents*                                                 | *2,066,243* | *2,909,976*   |
+| Net balance of cash accounts and accounts with central banks (5)                               | 863,504     | 2,497,287     |
+| Net balance of on-demand loans and deposits from credit institutions and customers (6)         | 1,202,739   | 412,689       |
+| *Ending balance of cash and cash equivalents*                                                  | *2,438,593* | *2,066,243*   |
+| Net balance of cash accounts and accounts with central banks                                   | 1,529,779   | 863,504       |
+| Net balance of on-demand loans and deposits from credit institutions and customers             | 908,814     | 1,202,739     |
+| *Change in cash and cash equivalents*                                                          | *372,350*   | *(843,733)*   |
+
+
+(1) Cash flows from financial assets and equity investments mainly come from the equity investment activity of the Proparco subsidiary and correspond to the flows during the period between acquisitions, disposals and fund raising.
+
+(2) Cash flows from shareholders correspond to RCS issues.
+
+(3) Cash flows to shareholders correspond to the dividends paid by AFD to the French State and to non-controlling shareholders by the Proparco subsidiary.
+
+(4) Other net cash flows from financing activities correspond to market borrowings carried out by AFD to meet the growth in its operating activity.
+
+(5) Composed of the net balance of "Cash accounts and accounts with central banks" as it appears in the Group's consolidated balance sheet.
+
+(6) Net balance of "On-demand receivables and payables from/to credit institutions".

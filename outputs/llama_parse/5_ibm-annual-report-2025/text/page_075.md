@@ -1,0 +1,71 @@
+# Notes to the Consolidated Financial Statements
+
+# International Business Machines Corporation and Subsidiary Companies
+
+# 2023
+
+In 2023, the company completed seven acquisitions within the Software segment and two acquisitions within the Consulting segment at an aggregate cost of $5,197 million.
+
+# Sale of Assets
+
+# 2024
+
+On August 31, 2024, the company completed the sale of certain QRadar SaaS (Software-as-a-Service) assets including QRadar intellectual property, customer relationships and customer contracts to Palo Alto Networks (Palo Alto). Upon closing, the company received cash proceeds of $500 million from Palo Alto. Proceeds of $437 million from the sale were included in proceeds from disposition of property, plant and equipment/other within cash from investing activities and the remaining $63 million related to transition and migration services described below were included within cash from operating activities in the Consolidated Statement of Cash Flows. For the year ended December 31, 2024, the company recognized a pre-tax gain on sale of $349 million in other (income) and expense in the Consolidated Income Statement.
+
+# Acquisitions
+
+In connection with the sale of the QRadar SaaS assets, IBM and Palo Alto are facilitating the migration of QRadar SaaS and IBM's QRadar on-premise (on-prem) clients who choose to migrate to Palo Alto’s Cortex XSIAM, their security operations (SOC) platform. As part of the agreement, IBM receives incremental future cash payments from Palo Alto for QRadar on-prem clients who choose to migrate to the Cortex XSIAM platform. Until this migration is completed, or contracts expire, the contractual relationship with certain QRadar SaaS and IBM’s QRadar on-prem clients remains with IBM. IBM also provides Palo Alto with transition services including support, operations and other services for QRadar SaaS customer contracts. The client migrations to Cortex XSIAM platform and transition services did not have a material impact on IBM’s Consolidated Financial Statements in 2025.
+
+| ($ in millions)                                 | Amortization    |              | Other |   |
+| ----------------------------------------------- | --------------- | ------------ | ----- | - |
+|                                                 | Life (in Years) | Apptio, Inc. |       |   |
+| Current assets                                  | $ 145           | $ 83         |       |   |
+| Property, plant and equipment/noncurrent assets |                 | 23           | 20    |   |
+| Intangible assets                               |                 |              |       |   |
+| Goodwill                                        | N/A             | $ 3,501      | $ 382 |   |
+| Client relationships                            | 6—10            | $ 770        | $ 44  |   |
+| Completed technology                            | 5—7             | $ 530        | $ 108 |   |
+| Trademarks                                      | 1—5             | $ 35         | $ 2   |   |
+| Total assets acquired                           | $ 5,005         | $ 639        |       |   |
+| Current liabilities                             | $ 250           | $ 44         |       |   |
+| Noncurrent liabilities                          | $ 143           | $ 10         |       |   |
+| Total liabilities assumed                       | $ 393           | $ 54         |       |   |
+| Total purchase price                            | $ 4,612         | $ 585        |       |   |
+
+N/A–Not applicable
+
+# Apptio, Inc.
+
+On August 10, 2023, the company completed the acquisition of Apptio, Inc., a leading provider of financial and operational IT management and optimization software which enables enterprise leaders to deliver enhanced business value across technology investments. Goodwill of $3,134 million and $367 million was assigned to the Software and Consulting segments, respectively. It is expected that one percent of the goodwill will be deductible for tax purposes. The overall weighted-average useful life of the identified amortizable intangible assets acquired was 8.7 years. The acquisition was integrated into the Software segment.
+
+# Other Acquisitions
+
+Goodwill of $341 million, $30 million and $11 million was assigned to the Software, Consulting and Infrastructure segments, respectively. It is expected that none of the goodwill will be deductible for tax purposes. The overall weighted-average useful life of the identified amortizable intangible assets acquired was 6.6 years.
+
+# Divestitures
+
+# 2024
+
+The Weather Company Assets–On January 31, 2024, the company completed the sale of The Weather Company assets to Zephyr Buyer, L.P., a wholly-owned subsidiary of Francisco Partners (collectively, Francisco). Under the agreement, Francisco acquired The Weather Company assets from IBM for $1,100 million inclusive of $250 million of contingent consideration, of which $200 million is contingent on Francisco’s attainment of certain investment return metrics. The assets included The Weather Company’s digital consumer-facing offerings, The Weather Channel mobile and cloud-based digital properties including Weather.com, Weather Underground and Storm Radar, as well as its enterprise offerings for broadcast, media, aviation, advertising technology and data solutions for other emerging industries.
+
+Upon closing, the company received cash proceeds of $750 million and provided seller financing to Francisco in the form of a $100 million loan with a term of seven years. The cash proceeds from the sale were primarily included in cash from investing activities within the Consolidated Statement of Cash Flows. The seller financing loan was repaid early by Francisco in the second quarter of 2025 and was also reflected in cash from investing activities. For the year ended December 31, 2024, the company recognized a pre-tax gain on sale of $243 million in other (income) and expense in the Consolidated Income Statement.
+
+# NOTE F. OTHER (INCOME) AND EXPENSE
+
+Components of other (income) and expense are as follows:
+
+| ($ in millions)            | For the year ended December 31:                          | 2025    | 2024    | 2023    |
+| -------------------------- | -------------------------------------------------------- | ------- | ------- | ------- |
+| Other (income) and expense | (Gains)/losses on foreign currency transactions (1)      | $ 993   | $ (458) | $ 116   |
+|                            | (Gains)/losses on derivative instruments (1)             | $ (641) | $ 515   | $ (17)  |
+|                            | Interest income                                          | $ (645) | $ (747) | $ (670) |
+|                            | Net (gains)/losses from securities and investment assets | $ 7     | $ (20)  | $ (39)  |
+|                            | Retirement-related costs/(income) (2)                    | $ 65    | $ 3,457 | $ (39)  |
+|                            | Other (3)                                                | $ (221) | $ (877) | $ (266) |
+|                            | Total other (income) and expense                         | $ (442) | $ 1,871 | $ (914) |
+
+(1) The company uses financial hedging instruments to limit specific currency risks related to foreign currency-based transactions. The hedging program does not hedge 100 percent of currency exposures and defers, versus eliminates, the impact of currency. Refer to note S, “Derivative Financial Instruments,” for additional information on foreign exchange risk.
+
+(2) 2024 includes the impact of pension settlement charges of $3.1 billion. Refer to note U, “Retirement-Related Benefits,” for additional information.
+
+(3) 2024 includes pre-tax gains of $349 million from the sale of certain QRadar SaaS assets and $243 million from the divestiture of The Weather Company assets. Refer to note E, “Acquisitions &#x26; Divestitures,” for additional information.

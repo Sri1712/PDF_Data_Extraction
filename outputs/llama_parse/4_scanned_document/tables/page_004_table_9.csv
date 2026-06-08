@@ -1,0 +1,6 @@
+Is criminal activity suspected?,Yes \[x],No \[ ]
+-------------------------------------------------------------------------------------------------------------------------------------,--------,-------
+"If Yes, have the police been contacted?",Yes \[x],No \[ ]
+"If Yes, what was the outcome?<br/>Matter logged with the Police as the Patient does not wish to make a formal statement at this time.",,
+Police Crime/Reference Number,CRN12345,
+"If No, please explain reason for this",,

@@ -1,0 +1,16 @@
+# Why you exist
+
+*   **What pain point are you solving?** Ensure this problem comes across as <mark>mission critical</mark> — state any user and market research you have to back up claims.
+
+*   Be clear <mark>if this is a new problem your customers are dealing with or an old problem</mark> where you plan to bring a new/disruptive solution
+
+*   Normally <mark>if an investor gets involved, it is because of one of the following:</mark>
+    *   They have personally experienced the problem in the past
+    *   There is a clear sense of ROI for them
+    *   Given their professional expertise, they **understand it.**
+
+> **Sometime problems can be too abstract — address this by personalising it.**
+
+The Perfect Pitch Deck
+PwC
+4

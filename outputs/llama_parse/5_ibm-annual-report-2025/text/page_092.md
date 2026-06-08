@@ -1,0 +1,66 @@
+Notes to the Consolidated Financial Statements
+
+# International Business Machines Corporation and Subsidiary Companies
+
+# Interest on Debt
+
+| ($ in millions)                 | For the year ended December 31: | 2025  | 2024  | 2023  |
+| ------------------------------- | ------------------------------- | ----- | ----- | ----- |
+| Cost of financing               | $                               | 365   | 336   | 334   |
+| Interest expense                |                                 | 1,935 | 1,712 | 1,607 |
+| Interest capitalized            |                                 | 4     | 12    | 9     |
+| Total interest paid and accrued | $                               | 2,305 | 2,060 | 1,949 |
+
+Refer to the related discussion in note D, “Segments,” for interest expense of the Financing segment. Refer to note S, “Derivative Financial Instruments,” for a discussion of the use of foreign currency denominated debt designated as a hedge of net investment, as well as a discussion of the use of currency and interest-rate swaps in the company’s debt risk management program.
+
+# Lines of Credit
+
+The company has a $2.5 billion Three-Year Credit Agreement and a $7.5 billion Five-Year Credit Agreement (the Credit Agreements) with maturity dates of June 20, 2028 and June 22, 2030, respectively. The Credit Agreements permit the company and its subsidiary borrowers to borrow up to $10 billion on a revolving basis. The total expense recorded by the company related to these agreements was not material in all periods presented. Subject to certain conditions stated in the Credit Agreements, the borrower may borrow, prepay and re-borrow amounts under the Credit Agreements at any time during the term of such agreements. Funds borrowed may be used for the general corporate purposes of the borrower.
+
+Interest rates on borrowings under the Credit Agreements will be based on prevailing market interest rates, as further described in the Credit Agreements. The Credit Agreements contain customary representations and warranties, covenants, events of default, and indemnification provisions. The company believes that circumstances that might give rise to breach of these covenants or an event of default, as specified in the Credit Agreements, are remote. As of December 31, 2025, there were no borrowings by the company under the Credit Agreements.
+
+The company also has other committed lines of credit in some of the geographies which are not significant in the aggregate. Interest rates and other terms of borrowing under these lines of credit vary from country to country, depending on local market conditions. As of December 31, 2025, there were no material borrowings by the company under these credit facilities.
+
+# NOTE P. OTHER LIABILITIES
+
+| ($ in millions)        | At December 31: | 2025    | 2024   |
+| ---------------------- | --------------- | ------- | ------ |
+| Income tax reserves    |                 | $ 5,671 | 6,865  |
+| Deferred taxes         |                 | 781     | 815    |
+| Excess Savings Plan    |                 | 1,545   | 1,445  |
+| Disability benefits    |                 | 278     | 274    |
+| Derivative liabilities |                 | 259     | 463    |
+| Workforce reductions   |                 | 424     | 445    |
+| Environmental accruals |                 | 207     | 204    |
+| Other                  |                 | 645     | 536    |
+| Total                  |                 | $ 9,810 | 11,048 |
+
+In response to changing business needs, the company periodically takes workforce reduction actions to improve productivity, cost competitiveness and to rebalance skills. The noncurrent future payments associated with these activities are reflected in the workforce reductions caption in the previous table. The noncurrent liabilities are workforce accruals primarily related to terminated employees who are no longer working for the company and who were granted annual payments to supplement their incomes in certain countries. Depending on the individual country’s legal requirements, these required payments will continue until the former employee begins receiving pension benefits or passes away. The total amounts accrued for workforce reductions, including amounts classified as other accrued expenses and liabilities in the Consolidated Balance Sheet, were $741 million and $665 million at December 31, 2025 and 2024, respectively.
+
+The company employs extensive internal environmental protection programs that primarily are preventive in nature. The company also participates in environmental assessments and cleanups at a number of locations, including operating facilities, previously owned facilities and Superfund sites. The company’s maximum exposure for all environmental liabilities cannot be estimated and no amounts have been recorded for non-ARO environmental liabilities that are not probable or estimable. The total amounts accrued for non-ARO environmental liabilities, including amounts classified as current in the Consolidated Balance Sheet, that do not reflect actual or anticipated insurance recoveries, were $250 million and $247 million at December 31, 2025 and 2024, respectively.
+
+Estimated environmental costs are not expected to materially affect the consolidated financial position or consolidated results of the company’s operations in future periods. However, estimates of future costs are subject to change due to protracted cleanup periods, changing environmental remediation regulations and changes in assumptions.
+
+As of December 31, 2025, the company was unable to estimate the range of settlement dates and the related probabilities for certain asbestos remediation AROs. These conditional AROs are primarily related to the encapsulated structural fireproofing that is not subject to abatement unless the buildings are demolished and non-encapsulated asbestos that the company would remediate only if it performed major renovations of certain existing buildings. Because these conditional obligations have indeterminate settlement dates, the company could not develop a reasonable estimate of their fair values. The company will continue to assess its ability to estimate fair values at each future reporting date. The related liability will be recognized once sufficient additional information becomes available. The total amounts accrued for ARO liabilities, including amounts classified as current in the Consolidated Balance Sheet at December 31, 2025 and 2024, were not material.
+
+# NOTE Q. COMMITMENTS &#x26; CONTINGENCIES
+
+# Commitments
+
+The company’s extended lines of credit to third-party entities include unused amounts of $1.7 billion and $1.6 billion at December 31, 2025 and 2024, respectively. A portion of these amounts was available to the company’s business partners to support their working capital needs. In addition, the company has committed to provide future financing to its clients in connection with client purchase agreements for $1.9 billion and $2.2 billion at December 31, 2025 and 2024, respectively. The company collectively evaluates the allowance for these arrangements using a provision methodology consistent with the portfolio of the commitments. Refer to note A, “Significant Accounting Policies,” for additional information. The allowance for these commitments is recorded in other liabilities in the Consolidated Balance Sheet and was not material at December 31, 2025 and 2024.
+
+The company has applied the guidance requiring a guarantor to disclose certain types of guarantees, even if the likelihood of requiring the guarantor’s performance is remote. The following is a description of arrangements in which the company is the guarantor.
+
+The company is a party to a variety of agreements pursuant to which it may be obligated to indemnify the other party with respect to certain matters. Typically, these obligations arise in the context of contracts entered into by the company, under which the company customarily agrees to hold the party harmless against losses arising from a breach of representations and covenants related to such matters as title to the assets sold, certain IP rights, specified environmental matters, third-party performance of nonfinancial contractual obligations and certain income taxes. In each of these circumstances, payment by the company is conditioned on the other party making a claim pursuant to the procedures specified in the particular contract, the procedures of which typically allow the company to challenge the other party’s claims. While indemnification provisions typically do not include a contractual maximum on the company’s payment, the company’s obligations under these agreements may be limited in terms of time and/or nature of claim, and in some instances, the company may have recourse against third parties for certain payments made by the company. It is not possible to predict the maximum potential amount of future payments under these or similar agreements due to the conditional nature of the company’s obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments made by the company under these agreements have not had a material effect on the company’s business, financial condition or results of operations.
+
+In addition, the company guarantees certain loans and financial commitments. The maximum potential future payment under these financial guarantees and the fair value of these guarantees recognized in the Consolidated Balance Sheet at December 31, 2025 and 2024 was not material.
+
+# Changes in the company’s warranty liability for standard warranties
+
+| ($ in millions)                           | 2025 | 2024 |
+| ----------------------------------------- | ---- | ---- |
+| Balance at January 1                      | $ 76 | 65   |
+| Current period accruals                   | 85   | 82   |
+| Accrual adjustments to reflect experience | 19   | 9    |
+| Charges incurred                          | (84) | (81) |
+| Balance at December 31                    | $ 95 | 76   |
