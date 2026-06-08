@@ -238,6 +238,7 @@ pdf-extraction-benchmark/
 │  
 │
 ├── report/
+│   ├── pdf_tool_benchmark_rubric.xlsx
 │   └── PDF_Processing_Tools_Report.pdf
 │
 └── README.md
