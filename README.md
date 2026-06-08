@@ -63,20 +63,20 @@ Poor PDF extraction directly degrades AI system performance. Common failure mode
 
 | Tool | Type | Output | Notes |
 |---|---|---|---|
-| [**PyMuPDF4LLM**](https://pymupdf4llm.readthedocs.io) | Rule-based | Markdown | Reads PDF byte stream → glyph positions → font heuristics → MD |
-| **Docling** (IBM) | Model-based | Structured JSON | DocLayNet layout model + TableFormer; MIT licensed |
-| **Unstructured** | Hybrid Framework | Structured Elements | Detect file type → partition strategy → layout/OCR processing |
-| **Marker-pdf** | Hybrid | Markdown | PdfConverter/OcrConverter → document processing → structured elements |
-| **OpenDataLoader** | Hybrid | Document Objects | Structured content extraction pipeline |
-| **pdftotext + Docling** | Hybrid Combo | Markdown / JSON | pdftotext extraction fed into Docling for structure analysis |
-| **pdftotext + PyMuPDF** | Hybrid Combo | Markdown | pdftotext raw text + PyMuPDF positional data |
+| [**PyMuPDF4LLM**](https://pymupdf.readthedocs.io/en/latest/pymupdf4llm/) | Rule-based | Markdown | Reads PDF byte stream → glyph positions → font heuristics → MD |
+| [**Docling** (IBM)] (https://github.com/docling-project/docling) | Model-based | Structured JSON | DocLayNet layout model + TableFormer; MIT licensed |
+| [**Unstructured** ] (https://docs.unstructured.io/welcome) | Hybrid Framework | Structured Elements | Detect file type → partition strategy → layout/OCR processing |
+| [**Marker-pdf** ] (https://github.com/datalab-to/marker) | Hybrid | Markdown | PdfConverter/OcrConverter → document processing → structured elements |
+| [**OpenDataLoader** ] (https://github.com/opendataloader-project) | Hybrid | Document Objects | Structured content extraction pipeline |
+| [**pdftotext + Docling** ] (https://pypi.org/project/pdftotext/) | Hybrid Combo | Markdown / JSON | pdftotext extraction fed into Docling for structure analysis |
+| [**pdftotext + PyMuPDF** ] (https://pymupdf.readthedocs.io/en/latest/) | Hybrid Combo | Markdown | pdftotext raw text + PyMuPDF positional data |
 
 ### Commercial Tools
 
 | Tool | Provider | Output | Notes |
 |---|---|---|---|
-| **LlamaParse** | LlamaIndex | Markdown + Images | Cloud OCR, layout analysis, table detection, image extraction |
-| **Azure Document Intelligence** | Microsoft | Markdown + CSV | Page-by-page OCR, layout analysis, bounding-box extraction |
+| [**LlamaParse** ] (https://developers.llamaindex.ai/llamaparse/) | LlamaIndex | Markdown + Images | Cloud OCR, layout analysis, table detection, image extraction |
+| [**Azure Document Intelligence** ] (https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/?view=doc-intel-4.0.0) | Microsoft | Markdown + CSV | Page-by-page OCR, layout analysis, bounding-box extraction |
 
 ---
 
