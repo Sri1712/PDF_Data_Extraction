@@ -63,7 +63,7 @@ Poor PDF extraction directly degrades AI system performance. Common failure mode
 
 | Tool | Type | Output | Notes |
 |---|---|---|---|
-| **PyMuPDF4LLM** | Rule-based | Markdown | Reads PDF byte stream → glyph positions → font heuristics → MD |
+| [**PyMuPDF4LLM**](https://pymupdf4llm.readthedocs.io) | Rule-based | Markdown | Reads PDF byte stream → glyph positions → font heuristics → MD |
 | **Docling** (IBM) | Model-based | Structured JSON | DocLayNet layout model + TableFormer; MIT licensed |
 | **Unstructured** | Hybrid Framework | Structured Elements | Detect file type → partition strategy → layout/OCR processing |
 | **Marker-pdf** | Hybrid | Markdown | PdfConverter/OcrConverter → document processing → structured elements |
@@ -238,8 +238,9 @@ pdf-extraction-benchmark/
 │  
 │
 ├── report/
-│   ├── pdf_tool_benchmark_rubric.xlsx
-│   └── PDF_Processing_Tools_Report.pdf
+│   ├── PDF extraction ppt.pdf 
+│   ├── PDF_Processing_Tools_Report.pdf
+│   └── pdf_tool_benchmark_rubric.xlsx
 │
 └── README.md
 ```
