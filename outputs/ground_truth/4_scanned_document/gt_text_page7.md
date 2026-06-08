@@ -5,7 +5,7 @@
 |                                            |
 | TYPE OF ABUSE |
 |                                     |
-| **Discriminatory** <br> Includes abuse based on a person's race, sex, disability, faith, sexual orientation, or age; other forms of harassment, slurs or similar treatment or hate crime/hate incident. <br>
+| **Discriminatory** <br> Includes abuse based on a person's race, sex, disability, faith, sexual orientation, or age; other forms of harassment, slurs or similar treatment or hate crime/hate incident. <br> 
 **Domestic**<br>An incident or pattern of incidents of controlling, coercive or threatening behaviour, violence or abuse by someone who is or has been an intimate partner or family member regardless of gender or sexuality. It can include: psychological, physical, sexual, financial, emotional abuse; 'honour' based violence; Female Genital Mutilation; forced marriage.<br> 
 **Financial and Material**<br>Includes theft, fraud, exploitation, pressure in connection with wills, property or inheritance or financial transactions, or the misuse or misappropriation of property, possessions or benefits. <br>
 **Modern Slavery**<br>Encompasses slavery, human trafficking, forced labour and domestic servitude. Traffickers and slave masters use whatever means they have at their disposal to coerce, deceive and force individuals into a life of abuse, servitude and inhumane treatment.<br>
